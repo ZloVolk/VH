@@ -40,3 +40,5 @@
 [11-Jun-2016 20:51:06 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
 [11-Jun-2016 20:52:19 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
 [11-Jun-2016 20:53:44 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[11-Jun-2016 21:44:34 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[11-Jun-2016 21:44:40 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
