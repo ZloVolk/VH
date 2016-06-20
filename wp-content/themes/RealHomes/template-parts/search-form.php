@@ -18,7 +18,7 @@ if( !empty($theme_search_fields) ):
     if ( in_array ( 'property-id', $theme_search_fields ) ) {
         ?>
         <div class="option-bar large">
-            <label for="property-id-txt"><?php _e('Property ID', 'framework'); ?></label>
+            <label for="property-id-txt"><?php _e('Business ID', 'framework'); ?></label>
             <input type="text" name="property-id" id="property-id-txt" value="<?php echo isset($_GET['property-id'])?$_GET['property-id']:''; ?>" placeholder="<?php _e('Any', 'framework'); ?>" />
         </div>
         <?php
@@ -70,7 +70,7 @@ if( !empty($theme_search_fields) ):
     if ( in_array ( 'status', $theme_search_fields ) ) {
         ?>
         <div class="option-bar large">
-            <label for="select-status"><?php _e('Property Status', 'framework'); ?></label>
+            <label for="select-status"><?php _e('Business Type', 'framework'); ?></label>
             <span class="selectwrap">
                 <select name="status" id="select-status" class="search-select">
                     <?php advance_search_options('property-status'); ?>

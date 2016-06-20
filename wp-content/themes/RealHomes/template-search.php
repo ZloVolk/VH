@@ -75,7 +75,7 @@ switch($theme_search_module){
                                 endwhile;
                                 wp_reset_query();
                             else:
-                                ?><div class="alert-wrapper"><h4><?php _e('No Properties Found!', 'framework') ?></h4></div><?php
+                                ?><div class="alert-wrapper"><h4><?php _e('No Businesses Found!', 'framework') ?></h4></div><?php
                             endif;
                             ?>
                         </div>

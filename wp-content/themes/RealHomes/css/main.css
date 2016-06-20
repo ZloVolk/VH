@@ -1044,15 +1044,16 @@ p .icon-remove {
 --------------------------------------------------------*/
 .menu-and-contact-wrap {
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   right: 0;
-}
+  }
 
 /*  Main Nav
 --------------------------------------------------------*/
 .main-menu {
-  margin-top: 42px;
+  margin-top: 0px;
   float: right;
+
 }
 .main-menu ul {
   list-style: none;
@@ -1109,26 +1110,23 @@ p .icon-remove {
   margin: 0px auto;
   width: 100%;
   padding: 5px;
+
 }
 
 /*  Contact Number
 --------------------------------------------------------*/
 .contact-number {
-  float: right;
-  position: relative;
-  margin: 42px 0 0;
-  font-size: 20px;
-  color: #e7eff7;
+  position: absolute;
+  margin: 0px 0 0;
+  font-size: 14px;
   min-height: 48px;
   line-height: 42px;
-  background-color: #4dc7ec;
 }
 .contact-number span,
 .contact-number a {
   color: inherit;
 }
 .contact-number .fa-phone {
-  background-color: #37b3d9;
   margin-right: 10px;
   padding: 12px 15px 12px 15px;
   font-size: 24px;
@@ -1141,10 +1139,9 @@ p .icon-remove {
   position: absolute;
   right: -88%;
   bottom: 0;
-  background-color: #4dc7ec;
 }
 
-/*  Double Phone Number fix for IE8 */
+  Double Phone Number fix for IE8 
 .lt-ie9 .mobile-version {
   display: none;
 }
@@ -6020,8 +6017,8 @@ input[type="text"].ui-autocomplete-loading {
   #header .contact-number .fa-phone {
     margin: 0;
     position: relative;
-    top: 3px;
-    padding: 10px;
+    top: 0px;
+    padding: 00px;
   }
   #header .tag-line {
     text-align: left;

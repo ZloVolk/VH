@@ -14,7 +14,7 @@ CREATE TABLE `wpqp_users` (
   KEY `user_login_key` (`user_login`),
   KEY `user_nicename` (`user_nicename`),
   KEY `user_email` (`user_email`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 LOCK TABLES `wpqp_users` WRITE;
-INSERT INTO `wpqp_users` VALUES ('1','nstudios','$P$BMsBGpOA1iu8VSYyliBPwf8ry7nyBF0','nstudios','m.godfrey@33d.us','','2016-06-07 20:09:35','','0','nstudios');
+INSERT INTO `wpqp_users` VALUES ('1','nstudios','$P$BMsBGpOA1iu8VSYyliBPwf8ry7nyBF0','nstudios','m.godfrey@33d.us','','2016-06-07 20:09:35','','0','nstudios'), ('2','Dorsee','$P$BGDHJ9I9t8PboDhNPk3EPA6rtfznPL0','dorsee','dorsee@dorsee.com','','2016-06-15 02:46:58','','0','Chris Anderson');
 UNLOCK TABLES;

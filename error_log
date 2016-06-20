@@ -42,3 +42,62 @@
 [11-Jun-2016 20:53:44 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
 [11-Jun-2016 21:44:34 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
 [11-Jun-2016 21:44:40 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[12-Jun-2016 16:15:19 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[12-Jun-2016 18:07:51 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[12-Jun-2016 19:59:38 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[12-Jun-2016 20:02:29 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 02:23:22 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 02:23:42 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 02:23:59 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 11:17:56 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 13:15:40 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 19:46:33 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[13-Jun-2016 21:55:42 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 01:06:49 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 14:19:34 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 14:20:21 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 14:20:35 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 20:26:53 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 20:26:54 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 21:03:01 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 21:03:11 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 22:05:46 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 22:30:39 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:30:48 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:30:56 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:30:59 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:31:04 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:31:35 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[14-Jun-2016 22:31:42 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 22:32:08 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/functions.php on line 482
+[14-Jun-2016 22:42:52 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-slider.php on line 3
+[19-Jun-2016 10:51:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-metas.php on line 42
+[19-Jun-2016 10:51:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-metas.php on line 42
+[19-Jun-2016 11:05:33 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/revenue.svg on line 1
+[19-Jun-2016 11:06:19 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/revenue.svg on line 1
+[19-Jun-2016 11:06:24 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/revenue.svg on line 1
+[19-Jun-2016 11:08:43 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/revenue.svg on line 1
+[19-Jun-2016 11:09:32 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-revenue.svg on line 1
+[19-Jun-2016 11:10:48 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-bed.svg on line 1
+[19-Jun-2016 11:13:16 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-revenue.svg on line 1
+[19-Jun-2016 11:13:21 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-revenue.svg on line 1
+[19-Jun-2016 11:14:03 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-revenue.svg on line 1
+[19-Jun-2016 11:14:11 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/images/icon-revenue.svg on line 1
+[20-Jun-2016 00:29:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:29:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:29:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:29:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:29:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:30:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 83
+[20-Jun-2016 00:59:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 79
+[20-Jun-2016 01:00:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 79
+[20-Jun-2016 01:00:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 79
+[20-Jun-2016 01:01:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 79
+[20-Jun-2016 01:08:08 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 82
+[20-Jun-2016 01:09:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 212
+[20-Jun-2016 01:10:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 212
+[20-Jun-2016 01:10:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 212
+[20-Jun-2016 01:10:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 79
+[20-Jun-2016 01:14:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 84
+[20-Jun-2016 01:15:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 84
+[20-Jun-2016 01:55:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 70

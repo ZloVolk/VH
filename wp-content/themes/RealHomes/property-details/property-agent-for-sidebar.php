@@ -44,7 +44,7 @@ if( $agent_display_option != "none" ){
             $agent_office_fax = get_post_meta($agent_id, 'REAL_HOMES_fax_number',true);
             $agent_email = get_post_meta($agent_id, 'REAL_HOMES_agent_email',true);
 
-            $agent_title_text = __('Agent','framework')." ".get_the_title($agent_id);
+            $agent_title_text = __('','framework')." ".get_the_title($agent_id);
             $agent_description = get_framework_excerpt(20);
 
             wp_reset_postdata();
@@ -94,7 +94,7 @@ if( $agent_display_option != "none" ){
                             ?><br/><br/><a class="real-btn" href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>"><?php _e('Know More','framework'); ?></a><?php
                         } else {
                             echo $agent_description;
-                            ?><br/><br/><a class="real-btn" href="<?php echo get_permalink( $agent_id ); ?>"><?php _e('Know More','framework'); ?></a><?php
+                            ?><br/><br/><a class="real-btn" href="<?php echo get_permalink( $agent_id ); ?>"><?php _e('Learn More','framework'); ?></a><?php
                         }
                         ?>
                     </p>
@@ -114,7 +114,7 @@ if( $agent_display_option != "none" ){
                             <input type="text" name="name" id="name" placeholder="<?php _e('Name', 'framework'); ?>" class="required" title="<?php _e('* Please provide your name', 'framework'); ?>">
 
                             <input type="text" name="email" id="email" placeholder="<?php _e('Email', 'framework'); ?>" class="email required" title="<?php _e('* Please provide valid email address', 'framework'); ?>">
-
+                                                                                     
                             <textarea  name="message" id="comment" class="required" placeholder="<?php _e('Message', 'framework'); ?>" title="<?php _e('* Please provide your message', 'framework'); ?>"></textarea>
 
                             <?php
