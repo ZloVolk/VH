@@ -65,12 +65,13 @@
                             <h2 id="contact-email">
                                 <?php
                                 include( get_template_directory() . '/images/icon-mail.svg' );
-                                _e('Email us at', 'framework'); ?> : <a href="mailto:<?php echo antispambot($header_email); ?>"><?php echo antispambot($header_email); ?></a>
+                                _e('Email us at', 'framework'); ?> : <a href="mailto:<?php echo antispambot($header_email); ?>"><b><?php echo antispambot($header_email); ?></b></a>
+                                Office: <b>763-445-2669</b>
                             </h2>
                             <?php
                         }
                         ?>
-
+                  
                         <!-- Social Navigation -->
                         <?php  get_template_part('template-parts/social-nav') ;    ?>
 
@@ -165,17 +166,20 @@
 
 
                     <div class="menu-and-contact-wrap">
-                        <?php
-                        $header_phone = get_option('theme_header_phone');
-                        if( !empty($header_phone) ){
+                       <!--Moved To Header -->
+                              <!--         
+                        		<?php
+                       				 $header_phone = get_option('theme_header_phone');
+                        				if( !empty($header_phone) ){
 						
-						    $desktop_version = '<span class="desktop-version">' . $header_phone . '</span>';
-                            $mobile_version =  '<a class="mobile-version" href="tel://'.$header_phone.'" title="Make a Call">' .$header_phone. '</a>';
-
-                            echo '<h2  class="contact-number "><i class="fa fa-phone"></i>'.  $desktop_version . $mobile_version .  '<span class="outer-strip"></span></h2>';
-						}
-                        ?>
-
+							   		 $desktop_version = '<span class="desktop-version">' . $header_phone . '</span>';
+                        	   		 $mobile_version =  '<a class="mobile-version" href="tel://'.$header_phone.'" title="Make a Call">' .$header_phone. '</a>';
+								
+                           			 echo '<h2  class="contact-number "><i class="fa fa-phone"></i>'.  $desktop_version . $mobile_version .  '<span class="outer-strip"></span></h2>';
+									}
+                       		 	?>
+                        	-->
+                       
                         <!-- Start Main Menu-->
                         <nav class="main-menu">
                             <?php

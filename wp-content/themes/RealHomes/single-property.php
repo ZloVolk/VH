@@ -17,7 +17,7 @@ if( $banner_image_id ){
         <?php if(!('true' == get_option('theme_banner_titles'))): ?>
             <div class="container">
                 <div class="wrap clearfix">
-                    <h1 class="page-title"><span><?php _e('Property Details', 'framework'); ?></span></h1>
+                    <h1 class="page-title"><span><?php _e('Business Details', 'framework'); ?></span></h1>
                     <p><?php
                         the_title();
 

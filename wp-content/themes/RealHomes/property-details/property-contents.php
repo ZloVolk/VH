@@ -6,7 +6,7 @@
             /* Property ID if exists */
             $property_id = get_post_meta($post->ID, 'REAL_HOMES_property_id', true);
             if(!empty($property_id)){
-                echo __('Property ID','framework').' : '.$property_id;
+                echo __('Business ID','framework').' : '.$property_id;
             }
 
             ?>

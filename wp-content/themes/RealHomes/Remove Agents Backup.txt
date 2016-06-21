@@ -1,0 +1,31 @@
+To Remove Agent From Header
+		"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-agent-for-sidebar.php"
+Line 47
+
+To Change Know More to Learn More
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-agent-for-sidebar.php"
+Line 97
+
+To Change Property ID
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-contents.php"
+Line 9
+
+
+Single Page Listings Change from Properties to Business
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/single-property.php"
+
+Line 20
+
+Cahnge Words on Edit Page
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/framework/meta-box/config-meta-boxes.php"
+Lines 144,153,162
+Change Tabs on Site
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/property-details/property-metas.php"
+Lines 18, 26, 36
+
+To Change Search Words
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/template-parts/search-form.php"
+
+To Change No Properties Found
+	"/home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/template-search.php"
+List 78

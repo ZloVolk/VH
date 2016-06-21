@@ -37,7 +37,7 @@ class Advance_Search_Widget extends WP_Widget {
 
 
     function form($instance) {
-        $instance = wp_parse_args( (array) $instance, array( 'title'=> __('Find Your Home', 'framework') ) );
+        $instance = wp_parse_args( (array) $instance, array( 'title'=> __('Find Your Next Business', 'framework') ) );
         $title = esc_attr($instance['title']);
         ?>
         <p>

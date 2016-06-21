@@ -15,7 +15,7 @@
 
         if( !empty($post_meta_data['REAL_HOMES_property_bedrooms'][0]) ) {
                 $prop_bedrooms = floatval($post_meta_data['REAL_HOMES_property_bedrooms'][0]);
-                $bedrooms_label = ($prop_bedrooms > 1)? __('Bedrooms','framework' ): __('Bedroom','framework');
+                $bedrooms_label = ($prop_bedrooms > 1)? __('Revenue','framework' ): __('Revenue','framework');
                 echo '<span>';
                     include( get_template_directory() . '/images/icon-bed.svg' );
                     echo $prop_bedrooms .'&nbsp;'.$bedrooms_label;
@@ -24,7 +24,7 @@
 
         if( !empty($post_meta_data['REAL_HOMES_property_bathrooms'][0]) ) {
                 $prop_bathrooms = floatval($post_meta_data['REAL_HOMES_property_bathrooms'][0]);
-                $bathrooms_label = ($prop_bathrooms > 1)?__('Bathrooms','framework' ): __('Bathroom','framework');
+                $bathrooms_label = ($prop_bathrooms > 1)?__('Cash Flow','framework' ): __('Cash Flow','framework');
                 echo '<span>';
                     include( get_template_directory() . '/images/icon-bath.svg' );
                     echo $prop_bathrooms .'&nbsp;'.$bathrooms_label;
@@ -33,11 +33,10 @@
 
         if( !empty($post_meta_data['REAL_HOMES_property_garage'][0]) ) {
                 $prop_garage = floatval($post_meta_data['REAL_HOMES_property_garage'][0]);
-                $garage_label = ($prop_garage > 1)?__('Garages','framework' ): __('Garage','framework');
+                $garage_label = ($prop_garage > 1)?__('Establish Date','framework' ): __('Establish Date','framework');
                 echo '<span>';
                     include( get_template_directory() . '/images/icon-garage.svg' );
                     echo $prop_garage .'&nbsp;'.$garage_label;
                 echo '</span>';
         }
-
   ?>

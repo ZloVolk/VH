@@ -141,7 +141,7 @@ if( !function_exists( 'inspiry_register_meta_boxes' ) ) {
                 ),
                 array(
                     'id' => "{$prefix}property_bedrooms",
-                    'name' => __('Bedrooms', 'framework'),
+                    'name' => __('Revenue', 'framework'),
                     'desc' => __('Example Value: 4', 'framework'),
                     'type' => 'text',
                     'std' => "",
@@ -150,7 +150,7 @@ if( !function_exists( 'inspiry_register_meta_boxes' ) ) {
                 ),
                 array(
                     'id' => "{$prefix}property_bathrooms",
-                    'name' => __('Bathrooms', 'framework'),
+                    'name' => __('Cash Flow', 'framework'),
                     'desc' => __('Example Value: 2', 'framework'),
                     'type' => 'text',
                     'std' => "",
@@ -159,7 +159,7 @@ if( !function_exists( 'inspiry_register_meta_boxes' ) ) {
                 ),
                 array(
                     'id' => "{$prefix}property_garage",
-                    'name' => __('Garages', 'framework'),
+                    'name' => __('Establish Date', 'framework'),
                     'desc' => __('Example Value: 1', 'framework'),
                     'type' => 'text',
                     'std' => "",
@@ -168,7 +168,7 @@ if( !function_exists( 'inspiry_register_meta_boxes' ) ) {
                 ),
                 array(
                     'id' => "{$prefix}property_id",
-                    'name' => __('Property ID', 'framework'),
+                    'name' => __('Business ID', 'framework'),
                     'desc' => __('It will help you search a property directly.', 'framework'),
                     'type' => 'text',
                     'std' => "",

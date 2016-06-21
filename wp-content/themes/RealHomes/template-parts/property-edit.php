@@ -66,8 +66,8 @@ if( is_page_template( 'template-submit-property.php' ) ){
                             </div>
 
                             <div class="form-option">
-                                <label for="bedrooms"><?php _e('Bedrooms', 'framework'); ?></label>
-                                <input id="bedrooms" name="bedrooms" type="text" value="<?php if( isset($post_meta_data['REAL_HOMES_property_bedrooms']) ){ echo $post_meta_data['REAL_HOMES_property_bedrooms'][0]; } ?>" title="<?php _e( '* Please provide the value in only digits!', 'framework'); ?>" />
+                                <label for="Revenue"><?php _e('Revenue', 'framework'); ?></label>
+                                <input id="Revenue" name="Revenue" type="text" value="<?php if( isset($post_meta_data['REAL_HOMES_property_bedrooms']) ){ echo $post_meta_data['REAL_HOMES_property_bedrooms'][0]; } ?>" title="<?php _e( '* Please provide the value in only digits!', 'framework'); ?>" />
                             </div>
 
                             <div class="clearfix"></div>
