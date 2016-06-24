@@ -1,0 +1,4964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Homeland v2.9.6\n"
+"POT-Creation-Date: 2016-06-03 17:07+0800\n"
+"PO-Revision-Date: 2016-06-03 17:07+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "Looks like the file you are looking for is no longer available"
+msgstr "Выглядит, как файл, который вы ищете больше не доступны"
+
+#: ../404.php:9
+msgid "Back to Homepage"
+msgstr "Вернуться на главную страницу"
+
+#: ../404.php:20
+msgid "Error"
+msgstr "ошибка"
+
+#: ../404.php:21
+msgid "404"
+msgstr ""
+
+#: ../archive-homeland_properties.php:104 ../template-properties-1col.php:81
+#: ../template-properties-2cols.php:81 ../template-properties-3cols.php:81
+#: ../template-properties-4cols.php:81
+#: ../template-properties-dual-sidebar.php:85
+#: ../template-properties-featured.php:103
+#: ../template-properties-grid-sidebar.php:81
+#: ../template-properties-left-sidebar.php:81
+#: ../template-properties-sold.php:103 ../template-properties.php:81
+msgid "Properties found!"
+msgstr ""
+
+#: ../archive.php:99 ../includes/lib/custom-functions.php:1 ../index.php:24
+#: ../template-blog-2cols.php:42 ../template-blog-3cols.php:42
+#: ../template-blog-4cols.php:42 ../template-blog-fullwidth.php:38
+#: ../template-blog-grid-left-sidebar.php:42 ../template-blog-grid.php:42
+#: ../template-blog-left-sidebar.php:38 ../template-blog-list-alternate.php:38
+#: ../template-blog-timeline.php:38 ../template-blog.php:38
+msgid "You have no blog post yet!"
+msgstr "У вас нет блога еще!"
+
+#: ../author.php:25
+msgid "Listed Properties"
+msgstr "Перечисленные свойства"
+
+#: ../author.php:97 ../single-homeland_properties.php:376
+#: ../template-agents-left-sidebar.php:129
+#: ../template-agents-list-fullwidth.php:127 ../template-agents.php:131
+msgid "Tel no"
+msgstr ""
+
+#: ../author.php:100 ../functions.php:1439
+#: ../single-homeland_properties.php:380
+#: ../template-agents-left-sidebar.php:136
+#: ../template-agents-list-fullwidth.php:134 ../template-agents.php:138
+#: ../template-print.php:280
+msgid "Mobile"
+msgstr "мобильный"
+
+#: ../author.php:103 ../functions.php:1440
+#: ../includes/mabuc-panel/options.php:1777
+#: ../single-homeland_properties.php:384
+#: ../template-agents-left-sidebar.php:143
+#: ../template-agents-list-fullwidth.php:141 ../template-agents.php:145
+#: ../template-contact-alternate.php:42 ../template-contact-alternate2.php:52
+#: ../template-contact.php:48 ../template-print.php:285
+msgid "Fax"
+msgstr "факс"
+
+#: ../bbpress/content-single-topic-lead.php:18
+#: ../bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "создатель"
+
+#: ../bbpress/content-single-topic-lead.php:22
+#: ../bbpress/content-single-topic-lead.php:94 ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "тема"
+
+#: ../bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "Зарегистрированные пользователи"
+
+#: ../bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "Форумы"
+
+#: ../bbpress/content-statistics.php:27 ../bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "темы"
+
+#: ../bbpress/content-statistics.php:32 ../bbpress/loop-forums.php:21
+#: ../bbpress/loop-replies.php:32 ../bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "Ответов"
+
+#: ../bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "Тема Тэги"
+
+#: ../bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "Пусто Тема Тэги"
+
+#: ../bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: ../bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: ../bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:33
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:55 ../bbpress/form-reply.php:44
+#: ../bbpress/form-topic.php:53
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:82 ../bbpress/form-reply.php:64
+#: ../bbpress/form-topic.php:82
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:138 ../bbpress/form-reply-move.php:72
+#: ../bbpress/form-reply.php:135 ../bbpress/form-topic-merge.php:93
+#: ../bbpress/form-topic-split.php:97 ../bbpress/form-topic.php:195
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:41 ../bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:49 ../bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:68 ../bbpress/form-topic-merge.php:89
+#: ../bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:93 ../bbpress/form-topic.php:156
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:97 ../bbpress/form-topic.php:160
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:114 ../bbpress/form-topic.php:176
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:118 ../bbpress/form-topic.php:180
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:166 ../bbpress/form-topic.php:218
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-search.php:14
+msgid "Search the forums..."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:64 ../bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:88
+msgid "Delete"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: ../bbpress/form-topic.php:35
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:35
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:45
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:67
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:93
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:106
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:109
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:125
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:137
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:226
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:226
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:14 ../bbpress/form-user-edit.php:19
+#: ../comments.php:60 ../functions.php:1389 ../functions.php:1397
+#: ../functions.php:1404 ../functions.php:1411
+#: ../includes/posts/post-partners.php:69
+#: ../includes/posts/post-portfolio.php:213
+#: ../includes/posts/post-properties.php:454
+#: ../includes/posts/post-testimonials.php:68
+#: ../single-homeland_properties.php:439
+msgid "Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:49 ../bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:57 ../comments.php:62
+#: ../includes/posts/post-partners.php:70
+#: ../includes/posts/post-portfolio.php:215 ../template-print.php:262
+msgid "Website"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:90 ../bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:98 ../bbpress/form-user-login.php:17
+#: ../bbpress/form-user-register.php:23 ../includes/lib/custom-functions.php:1
+#: ../template-login.php:61
+msgid "Username"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:103 ../bbpress/form-user-register.php:28
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:1771
+#: ../includes/widgets/widget-contact.php:96
+#: ../template-contact-alternate.php:39 ../template-contact-alternate2.php:49
+#: ../template-contact.php:45 ../template-print.php:267
+msgid "Email"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:143 ../bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:173 ../includes/mabuc-panel/generator.php:300
+msgid "Save Changes"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:14 ../bbpress/form-user-login.php:35
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:64
+msgid "Log In"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:22 ../includes/lib/custom-functions.php:1
+#: ../template-login.php:62
+msgid "Password"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:18
+#: ../includes/lib/custom-functions.php:1
+msgid "Username or Email"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:36 ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:425 ../template-login.php:73
+msgid "Register"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:19 ../includes/mabuc-panel/options.php:1909
+#: ../includes/mabuc-panel/options.php:1929
+#: ../includes/mabuc-panel/options.php:1967
+msgid "Forum"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:24
+#: ../bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:22 ../bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-search.php:18
+#: ../includes/posts/post-services.php:163
+msgid "Author"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: ../bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:24
+msgid "in group forum "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:28
+msgid "in forum "
+msgstr ""
+
+#: ../bbpress/loop-search.php:22 ../functions.php:759
+msgid "Search Results"
+msgstr ""
+
+#: ../bbpress/loop-single-reply.php:43
+msgid "in reply to: "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:58
+#, php-format
+msgid "by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:66
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:20
+msgid "Last Poster"
+msgstr ""
+
+#: ../bbpress/user-details.php:29 ../bbpress/user-profile.php:15
+#: ../includes/mabuc-panel/options.php:829
+msgid "Profile"
+msgstr ""
+
+#: ../bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: ../bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: ../bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: ../bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: ../bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:40 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:41
+#: ../loop-entry.php:50 ../single.php:67
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:41 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:41
+#: ../loop-entry.php:50 ../single.php:67
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:25 ../comments.php:42 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:41
+#: ../loop-entry.php:50 ../single.php:67
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:61 ../single-homeland_properties.php:440
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:71
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Post a Message"
+msgstr ""
+
+#: ../comments.php:75 ../single-homeland_properties.php:441
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:79
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../footer.php:30 ../footer.php:39 ../footer.php:48 ../footer.php:57
+#: ../sidebar-dual.php:5 ../sidebar.php:5
+msgid "This is a widget area, so please add widgets here..."
+msgstr ""
+
+#: ../functions.php:214
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:432 ../functions.php:517
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:144
+#: ../includes/widgets/widget-featured-properties.php:77
+#: ../loop-properties.php:46 ../loop-property-1col.php:47
+#: ../loop-property-2cols.php:48 ../loop-property-3cols.php:48
+#: ../loop-property-4cols.php:46 ../loop-property-home.php:47
+#: ../single-homeland_properties.php:144 ../template-print.php:94
+msgid "Sold"
+msgstr ""
+
+#: ../functions.php:432 ../functions.php:517
+msgid "View More"
+msgstr ""
+
+#: ../functions.php:683
+msgid "Enter property name"
+msgstr ""
+
+#: ../functions.php:685
+msgid "Enter portfolio name"
+msgstr ""
+
+#: ../functions.php:687
+msgid "Enter services name"
+msgstr ""
+
+#: ../functions.php:689
+msgid "Enter name"
+msgstr ""
+
+#: ../functions.php:691
+msgid "Enter partner name"
+msgstr ""
+
+#: ../functions.php:709 ../functions.php:723
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:753
+msgid "Our Properties"
+msgstr ""
+
+#: ../functions.php:754
+msgid "This is your property subtitle here"
+msgstr ""
+
+#: ../functions.php:755
+msgid "Our Portfolio"
+msgstr ""
+
+#: ../functions.php:756
+msgid "This is your portfolio subtitle here"
+msgstr ""
+
+#: ../functions.php:757
+msgid "Our Services"
+msgstr ""
+
+#: ../functions.php:758
+msgid "This is your services subtitle here"
+msgstr ""
+
+#: ../functions.php:760
+msgid "This is your search subtitle description"
+msgstr ""
+
+#: ../functions.php:761 ../includes/mabuc-panel/options.php:1856
+msgid "404 Page"
+msgstr ""
+
+#: ../functions.php:762
+msgid "This is your 404 not found subtitle here"
+msgstr ""
+
+#: ../functions.php:763
+msgid "Agent Profile"
+msgstr ""
+
+#: ../functions.php:764
+msgid "This is your agent subtitle here"
+msgstr ""
+
+#: ../functions.php:789
+msgid "Posts Tagged: "
+msgstr ""
+
+#: ../functions.php:790
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../functions.php:791
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions.php:792
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../functions.php:904 ../functions.php:2176
+msgid "All"
+msgstr ""
+
+#: ../functions.php:1065
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1094
+msgid "&laquo;"
+msgstr ""
+
+#: ../functions.php:1095
+msgid "&raquo;"
+msgstr ""
+
+#: ../functions.php:1118
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:1123
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:1210
+msgid "Listings"
+msgstr ""
+
+#: ../functions.php:1368 ../includes/mabuc-panel/options.php:632
+#: ../includes/mabuc-panel/options.php:660
+#: ../includes/mabuc-panel/options.php:688
+#: ../includes/mabuc-panel/options.php:809
+#: ../includes/mabuc-panel/options.php:998
+#: ../includes/mabuc-panel/options.php:1079
+#: ../includes/mabuc-panel/options.php:1133
+#: ../includes/mabuc-panel/options.php:1211
+#: ../includes/mabuc-panel/options.php:1334
+#: ../includes/mabuc-panel/options.php:1606
+#: ../includes/mabuc-panel/options.php:1699
+msgid "Order"
+msgstr ""
+
+#: ../functions.php:1373
+msgid "Descending"
+msgstr ""
+
+#: ../functions.php:1374
+msgid "Ascending"
+msgstr ""
+
+#: ../functions.php:1382 ../includes/mabuc-panel/options.php:639
+#: ../includes/mabuc-panel/options.php:667
+#: ../includes/mabuc-panel/options.php:695
+#: ../includes/mabuc-panel/options.php:816
+#: ../includes/mabuc-panel/options.php:1005
+#: ../includes/mabuc-panel/options.php:1086
+#: ../includes/mabuc-panel/options.php:1140
+#: ../includes/mabuc-panel/options.php:1218
+#: ../includes/mabuc-panel/options.php:1341
+#: ../includes/mabuc-panel/options.php:1613
+#: ../includes/mabuc-panel/options.php:1706
+msgid "Sort By"
+msgstr ""
+
+#: ../functions.php:1390 ../functions.php:1398 ../functions.php:1406
+#: ../functions.php:1410 ../includes/posts/post-partners.php:72
+#: ../includes/posts/post-portfolio.php:217
+#: ../includes/posts/post-properties.php:462
+#: ../includes/posts/post-services.php:164
+#: ../includes/posts/post-testimonials.php:71
+msgid "Date"
+msgstr ""
+
+#: ../functions.php:1391 ../functions.php:1396 ../functions.php:1405
+#: ../functions.php:1412 ../includes/posts/post-properties.php:156
+#: ../includes/posts/post-properties.php:461
+msgid "Price"
+msgstr ""
+
+#: ../functions.php:1392 ../functions.php:1399 ../functions.php:1403
+#: ../functions.php:1413
+msgid "Random"
+msgstr ""
+
+#: ../functions.php:1433
+msgid "Designation"
+msgstr ""
+
+#: ../functions.php:1434
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:1435
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:1436
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions.php:1437
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions.php:1438 ../template-print.php:275
+msgid "Telephone"
+msgstr ""
+
+#: ../functions.php:1506 ../functions.php:1518
+#: ../includes/mabuc-panel/options.php:837
+#: ../includes/mabuc-panel/options.php:1493
+#: ../includes/mabuc-panel/options.php:1672
+#: ../includes/mabuc-panel/options.php:1750
+#: ../includes/mabuc-panel/options.php:1864
+#: ../includes/mabuc-panel/options.php:1896
+#: ../includes/mabuc-panel/options.php:1921
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions.php:1508
+msgid "Add your subtitle text here"
+msgstr ""
+
+#: ../functions.php:1521
+msgid "Edit your subtitle text here"
+msgstr ""
+
+#: ../functions.php:2022 ../includes/mabuc-panel/options.php:325
+#: ../includes/mabuc-panel/options.php:525
+#: ../includes/mabuc-panel/options.php:1197
+#: ../includes/posts/post-properties.php:460 ../template-print.php:251
+msgid "Agent"
+msgstr ""
+
+#: ../functions.php:2033
+msgid "Custom Avatar"
+msgstr ""
+
+#: ../functions.php:2037
+msgid "Avatar"
+msgstr ""
+
+#: ../functions.php:2040 ../includes/lib/custom-fields.php:59
+#: ../includes/lib/custom-fields.php:66 ../includes/lib/custom-fields.php:90
+#: ../includes/lib/custom-fields.php:207 ../includes/lib/custom-fields.php:214
+#: ../includes/mabuc-panel/generator.php:203
+#: ../includes/mabuc-panel/generator.php:220
+#: ../includes/posts/post-portfolio.php:93
+#: ../includes/posts/post-portfolio.php:100
+#: ../includes/posts/post-properties.php:233
+#: ../includes/posts/post-properties.php:244
+#: ../includes/posts/post-services.php:107
+#: ../includes/posts/post-services.php:120
+#: ../includes/posts/post-services.php:127
+msgid "Upload"
+msgstr ""
+
+#: ../functions.php:2042
+msgid ""
+"This will override your default Gravatar or show up if you dont have a "
+"Gravatar"
+msgstr ""
+
+#: ../functions.php:2042
+msgid "Image should be 240x240 pixels"
+msgstr ""
+
+#: ../header.php:1
+msgid "Please add sliding bar widget here..."
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:23 ../includes/lib/custom-fields.php:166
+#: ../includes/posts/post-portfolio.php:56
+msgid "Main Settings"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:26 ../includes/lib/custom-fields.php:169
+#: ../includes/mabuc-panel/options.php:311
+#: ../includes/mabuc-panel/options.php:499
+#: ../includes/posts/post-portfolio.php:59
+#: ../includes/posts/post-properties.php:117
+#: ../includes/posts/post-services.php:61
+msgid "Images"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:29 ../includes/lib/custom-fields.php:88
+msgid "Video"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:32 ../includes/lib/custom-fields.php:101
+msgid "Audio"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:35
+#: ../includes/mabuc-panel/options.php:1105
+#: ../includes/posts/post-portfolio.php:62
+#: ../includes/posts/post-properties.php:120
+msgid "Slider"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:44 ../includes/lib/custom-fields.php:178
+#: ../includes/posts/post-portfolio.php:71
+#: ../includes/posts/post-properties.php:132
+#: ../includes/posts/post-services.php:69
+msgid "Hide Search"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:47
+#: ../includes/posts/post-portfolio.php:74
+#: ../includes/posts/post-properties.php:135
+#: ../includes/posts/post-services.php:71
+msgid "Tick the box to hide advance search in this post"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:57 ../includes/lib/custom-fields.php:205
+#: ../includes/posts/post-portfolio.php:91
+#: ../includes/posts/post-properties.php:231
+#: ../includes/posts/post-services.php:118
+msgid "Header Image"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:60 ../includes/lib/custom-fields.php:208
+#: ../includes/posts/post-portfolio.php:94
+#: ../includes/posts/post-properties.php:236
+#: ../includes/posts/post-services.php:121
+msgid ""
+"Please upload header image. Otherwise default header image from theme "
+"options will be displayed"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:64 ../includes/lib/custom-fields.php:212
+#: ../includes/mabuc-panel/options.php:1047
+#: ../includes/mabuc-panel/options.php:1093
+#: ../includes/mabuc-panel/options.php:1185
+#: ../includes/mabuc-panel/options.php:1247
+#: ../includes/posts/post-portfolio.php:98
+#: ../includes/posts/post-properties.php:242
+#: ../includes/posts/post-services.php:125
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:67 ../includes/lib/custom-fields.php:215
+#: ../includes/posts/post-portfolio.php:101
+#: ../includes/posts/post-properties.php:247
+#: ../includes/posts/post-services.php:128
+msgid ""
+"Please upload background image. Otherwise default background image from "
+"theme options will be displayed"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:77
+msgid "Video Host"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:80
+msgid "Select Video Host"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:81
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:82
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:83
+msgid "Self Hosted"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:84
+msgid ""
+"Select your video host here either YouTube, Vimeo or Self Hosted. Please "
+"make sure you selected the video post format"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:91
+msgid ""
+"Add your video embedded code here (ex. http://player.vimeo.com/"
+"video/21942776 and http://youtube.com/embed/68AqHwgk2s8) or just click "
+"upload for self hosted video"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:106
+#, php-format
+msgid "Add your audio embedded code %1$s from soundcloud"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:119
+#: ../includes/posts/post-portfolio.php:113
+#: ../includes/posts/post-properties.php:268
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:136
+msgid ""
+"Select your slider if you want to use revolution slider in blog single page"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:181
+msgid "Tick the box to hide advance search in this page"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:185
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:188
+msgid "Provide your page title here, this will replace your default page title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:192
+msgid "Page Subtitle"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:195
+msgid ""
+"Provide your page subtitle here, this will be added at the bottom of your "
+"page title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:231
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:239
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../loop-services.php:8
+msgid "More Details"
+msgstr "Подробнее"
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/post-format/format-image.php:30
+#: ../includes/widgets/widget-popular.php:53
+#: ../includes/widgets/widget-portfolio.php:56
+#: ../loop-portfolio-sidebar.php:14 ../loop-portfolio.php:15
+#: ../loop-properties.php:38 ../loop-property-1col.php:34
+#: ../loop-property-2cols.php:36 ../loop-property-3cols.php:38
+#: ../loop-property-4cols.php:36 ../loop-property-home.php:35
+#: ../template-print.php:110
+msgid "No Image Available"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:163 ../loop-property-4cols.php:73
+#: ../single-homeland_properties.php:228 ../template-print.php:140
+msgid "Lot Area"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:169 ../loop-property-4cols.php:65
+#: ../single-homeland_properties.php:232 ../template-print.php:147
+msgid "Floor Area"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:702 ../loop-properties.php:87
+#: ../loop-property-1col.php:76 ../loop-property-2cols.php:81
+#: ../loop-property-3cols.php:74 ../loop-property-4cols.php:81
+#: ../loop-property-home.php:81 ../single-homeland_properties.php:240
+#: ../template-print.php:161
+msgid "Bedrooms"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:722 ../loop-properties.php:95
+#: ../loop-property-1col.php:83 ../loop-property-2cols.php:89
+#: ../loop-property-3cols.php:82 ../loop-property-4cols.php:89
+#: ../loop-property-home.php:88 ../single-homeland_properties.php:244
+#: ../template-print.php:168
+msgid "Bathrooms"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:151
+#: ../includes/posts/post-properties.php:456 ../template-print.php:119
+msgid "Property ID"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:618
+#: ../includes/posts/post-properties.php:405
+msgid "Location"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2642
+#: ../includes/mabuc-panel/options.php:674
+#: ../includes/posts/post-properties.php:357
+#: ../includes/posts/post-properties.php:457 ../template-print.php:126
+msgid "Type"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2647
+#: ../includes/mabuc-panel/options.php:646
+#: ../includes/posts/post-properties.php:381
+#: ../includes/posts/post-properties.php:458 ../template-print.php:133
+msgid "Status"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:742
+msgid "Minimum Price"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:762
+msgid "Maximum Price"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:331
+#: ../includes/mabuc-panel/options.php:531
+#: ../includes/mabuc-panel/options.php:1888
+msgid "Search"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Latest Property"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Latest News"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../includes/mabuc-panel/main.php:9
+msgid "Choose a category"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Posted by:"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:89
+msgid "View Properties"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:789 ../template-sitemap.php:227
+msgid "Agents"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/widgets/widget-agent.php:69
+msgid "Listed:"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:946
+#: ../includes/mabuc-panel/options.php:1288
+#: ../includes/posts/post-properties.php:11
+#: ../includes/posts/post-properties.php:12
+#: ../includes/widgets/widget-agent.php:70
+#: ../template-agents-left-sidebar.php:151
+#: ../template-agents-list-fullwidth.php:149 ../template-agents.php:153
+#: ../template-sitemap.php:210
+msgid "Properties"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/widgets/widget-agent.php:75 ../template-about.php:96
+#: ../template-agents-fullwidth.php:120
+#: ../template-agents-left-sidebar.php:158
+#: ../template-agents-list-fullwidth.php:156 ../template-agents.php:160
+msgid "No Agents found!"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Featured Property"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:181 ../loop-properties.php:103
+#: ../loop-property-1col.php:90 ../loop-property-2cols.php:97
+#: ../single-homeland_properties.php:248 ../template-print.php:175
+msgid "Garage"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Customer Says"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Trusted Partners"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Works"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Share"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:381
+msgid "Call us"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:401
+msgid "Login"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/mabuc-panel/options.php:413 ../template-login.php:90
+msgid "Logout"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Hi"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:63
+msgid "Remember Me"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:73
+msgid "Lost your Password?"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Get New Password"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:35
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:37
+msgid "Main widgets of the theme"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:45
+#: ../includes/mabuc-panel/options.php:266
+msgid "Sliding Bar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:47
+msgid "Sliding Bar widgets of the theme located at the top of the website"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:55
+msgid "Top Slider"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:57
+msgid "Top slider widgets of the theme for revolution slider"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:65
+msgid "Search Type"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:67
+msgid ""
+"Search Type widgets of the theme for IDX listing search. Leave it empty if "
+"you want to use the default Advance Search"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:75
+msgid "Dual Sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:77
+msgid ""
+"This widgets of the theme is for dual sidebar, this is displayed in left "
+"sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:85
+msgid "Footer One"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:87 ../includes/lib/custom-widgets.php:97
+#: ../includes/lib/custom-widgets.php:107
+#: ../includes/lib/custom-widgets.php:117
+msgid "Footer column widget of the theme"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:95
+msgid "Footer Two"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:105
+msgid "Footer Three"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:115
+msgid "Footer Four"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:394
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:8
+msgid "Settings Saved"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:24
+msgid "Settings Reset"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:31
+msgid "version"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:35
+#, php-format
+msgid ""
+"Enter your Settings for %1$s. If you have any questions please refer to the "
+"user manual."
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:304
+msgid "Ask for Help?"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:306
+msgid "More Themes"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:307
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/mabuc-panel/main.php:48
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:14
+#: ../includes/mabuc-panel/options.php:507
+#: ../includes/mabuc-panel/options.php:587
+#: ../includes/mabuc-panel/options.php:847
+#: ../includes/mabuc-panel/options.php:880
+#: ../includes/mabuc-panel/options.php:1380
+#: ../includes/mabuc-panel/options.php:1476
+#: ../includes/mabuc-panel/options.php:1531
+#: ../includes/mabuc-panel/options.php:1550
+#: ../includes/mabuc-panel/options.php:1627
+#: ../includes/mabuc-panel/options.php:1660
+#: ../includes/mabuc-panel/options.php:1732
+#: ../includes/mabuc-panel/options.php:1741
+msgid "Default"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:17
+msgid "Select Pattern"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:32
+msgid "Theme Settings"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:40
+msgid "General"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:44
+#: ../includes/mabuc-panel/options.php:133
+#: ../includes/mabuc-panel/options.php:283
+#: ../includes/mabuc-panel/options.php:360
+#: ../includes/mabuc-panel/options.php:568
+#: ../includes/mabuc-panel/options.php:795
+#: ../includes/mabuc-panel/options.php:920
+#: ../includes/mabuc-panel/options.php:1320
+#: ../includes/mabuc-panel/options.php:1512
+#: ../includes/mabuc-panel/options.php:1598
+#: ../includes/mabuc-panel/options.php:1691
+#: ../includes/mabuc-panel/options.php:1769
+#: ../includes/mabuc-panel/options.php:1913
+msgid "Main"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:46
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:47
+msgid ""
+"Do you want to disable the responsive style of this theme? then tick the box"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:52
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:53
+msgid "Upload your favorite icon for your website"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:58
+msgid "Logo"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:59
+msgid "Upload your company logo"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:64
+msgid "Logo Retina"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:65
+msgid ""
+"Upload your website logo for retina feature (NOTE: you need to upload image "
+"with @2x in your filename like this image@2x.jpg)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:70
+msgid "Disable Preloader"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:71
+msgid "Check the box to disbale preloader"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:76
+msgid "Preloader Icon"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:77
+msgid ""
+"Upload your preloader icon use when your site is still loading, please "
+"upload only .gif extension"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:82
+msgid "Map Pointer"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:83
+msgid "Upload your map pointer icon"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:88
+msgid "Map Marker Clusterer"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:89
+msgid "Upload your map marker clusterer icon"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:94
+msgid "Styles"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:96
+msgid "Layout Style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:97
+msgid "Select your theme layout style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:103
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:104
+msgid "Select your mobile menu style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:110
+msgid "Paging Style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:111
+msgid "Select your theme paging navigation style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:117
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:118
+msgid "Enter your custom CSS tags here"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:129
+msgid "Typography"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:134
+msgid "This settings is use for adjusting your font size"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:137
+msgid "Font Family"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:138
+msgid "Select your theme font family"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:144
+msgid "Body"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:145
+msgid "Select your value for body font size (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:150
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:151
+msgid "Select your value for body line height (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:156
+msgid "Homepage Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:157
+msgid "Select your value for homepage header (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:162
+msgid "Page Top Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:163
+msgid "Select your value for page top header (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:168
+msgid "Page Top Subtitle"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:169
+msgid "Select your value for page top subtitle (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:174
+msgid "Page Content Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:175
+msgid "Select your value for page content header (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:180
+#: ../includes/mabuc-panel/options.php:230
+msgid "Sidebar Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:181
+msgid "Select your value for sidebar header (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:186
+msgid "Footer Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:187
+msgid "Select your value for footer header (pixel)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:192
+msgid "Color Schemes"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:194
+msgid "Global Color"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:195
+msgid "Enter your global color for your theme"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:200
+msgid "Top Header Background"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:201
+msgid "Enter your top header background color"
+msgstr "Введите верхний заголовок цвет фона"
+
+#: ../includes/mabuc-panel/options.php:206
+msgid "Menu Text"
+msgstr "Текст меню"
+
+#: ../includes/mabuc-panel/options.php:207
+msgid "Enter menu text color"
+msgstr "Введите текст меню цвет"
+
+#: ../includes/mabuc-panel/options.php:212
+msgid "Menu Text Current"
+msgstr "Текст меню Текущий"
+
+#: ../includes/mabuc-panel/options.php:213
+msgid "Enter menu text color for active and hovered menu"
+msgstr "Введите текст меню цвет для активной и наведен меню"
+
+#: ../includes/mabuc-panel/options.php:218
+msgid "Menu Background"
+msgstr "Меню Фон"
+
+#: ../includes/mabuc-panel/options.php:219
+msgid "Enter menu background color text when active and hovered"
+msgstr "Введите меню цвет фона текста, когда активный и завис"
+
+#: ../includes/mabuc-panel/options.php:224
+#: ../includes/mabuc-panel/options.php:356
+msgid "Headers"
+msgstr "Заголовки"
+
+#: ../includes/mabuc-panel/options.php:225
+msgid "Enter your header text color"
+msgstr "Введите текст заголовка цвет"
+
+#: ../includes/mabuc-panel/options.php:231
+msgid "Enter your sidebar header text color"
+msgstr "Введите текст заголовка цвет боковой панели"
+
+#: ../includes/mabuc-panel/options.php:236
+msgid "Button Text"
+msgstr "Кнопка Текст"
+
+#: ../includes/mabuc-panel/options.php:237
+msgid "Enter your button text color"
+msgstr "Введите текст кнопки цвет"
+
+#: ../includes/mabuc-panel/options.php:242
+msgid "Button Background"
+msgstr "Кнопка Фон"
+
+#: ../includes/mabuc-panel/options.php:243
+msgid "Enter your button background color"
+msgstr "Введите кнопку цвет фона"
+
+#: ../includes/mabuc-panel/options.php:248
+msgid "Button Hover"
+msgstr "Кнопка Ховер"
+
+#: ../includes/mabuc-panel/options.php:249
+msgid "Enter your button hover background color"
+msgstr "Введите кнопку наведении цвет фона"
+
+#: ../includes/mabuc-panel/options.php:254
+msgid "Footer Text"
+msgstr "Сноска"
+
+#: ../includes/mabuc-panel/options.php:255
+msgid "Enter your footer text color"
+msgstr "Введите текст колонтитула цвет"
+
+#: ../includes/mabuc-panel/options.php:260
+msgid "Footer Background"
+msgstr "Подвал Фон"
+
+#: ../includes/mabuc-panel/options.php:261
+msgid "Enter your footer background color"
+msgstr "Введите цвет фона нижнего колонтитула"
+
+#: ../includes/mabuc-panel/options.php:267
+msgid "Enter your top sliding bar background color"
+msgstr "Введите верхнюю скользящую цвет фона бар"
+
+#: ../includes/mabuc-panel/options.php:279
+msgid "Background"
+msgstr "Задний план"
+
+#: ../includes/mabuc-panel/options.php:285
+msgid "Background Type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:286
+msgid "Select the background type you want, either full image or pattern"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:292
+msgid "Image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:293
+msgid "Upload your default background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:298
+msgid "Pattern"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:299
+msgid ""
+"Select 65 built-in background patterns. You can only use this if you are "
+"using Pattern Background Type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:305
+msgid "Color"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:306
+msgid "Enter your background color for this theme"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:313
+#: ../includes/mabuc-panel/options.php:513
+#: ../includes/mabuc-panel/options.php:1469
+#: ../includes/mabuc-panel/options.php:1653
+#: ../includes/mabuc-panel/options.php:1735
+msgid "Archive"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:314
+msgid "Upload archive background image for archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:319
+#: ../includes/mabuc-panel/options.php:519
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:320
+msgid "Upload taxonomy background image for taxonomy page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:326
+msgid "Upload agent background image for agent single page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:332
+msgid "Upload search background image for search page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:337
+#: ../includes/mabuc-panel/options.php:537
+msgid "Attachment"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:338
+msgid "Upload attachment background image for attachment page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:343
+#: ../includes/mabuc-panel/options.php:543
+msgid "404 Not Found"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:344
+msgid "Upload 404 not found background image for 404 page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:362
+msgid "Sticky Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:363
+msgid "Enable Sticky header effect"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:368
+msgid "Top Sliding Bar"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:369
+msgid "Enable Top Sliding Bar at the top of header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:374
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:375
+msgid "Select your theme header style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:382
+msgid "Add label of your call us"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:387
+msgid "Hide Page Title and Subtitle"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:388
+msgid "Check the box to hide page title and subtitle"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:393
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:395
+msgid "Hide Login"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:396
+msgid "Check the box to hide login button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:402
+msgid "Add label of your login button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:407
+msgid "Custom Link Login"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:408
+msgid "Add your custom link for login button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:414
+msgid ""
+"Add label of your logout button, you only see this label if you already "
+"logged in"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:419
+msgid "Hide Register"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:420
+msgid "Check the box to hide register button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:426
+msgid "Add label of your register button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:431
+msgid "Custom Link Register"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:432
+msgid "Add your custom link for register button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:437
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:439
+msgid "Brand Color"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:440
+msgid "Enable social color branding"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:445
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:446
+msgid "Enter rss feed link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:451
+msgid "Twitter ID"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:452
+msgid "Enter twitter id"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:457
+msgid "Facebook ID"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:458
+msgid "Enter facebook id"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:463
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:464
+msgid "Enter your youtube profile link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:469
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:470
+msgid "Enter your pinterest id"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:475
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:476
+msgid "Enter your linkedin link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:481
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:482
+msgid "Enter your dribbble id"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:487
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:488
+msgid "Enter your instagram id"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:493
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:494
+msgid "Enter your google plus profile link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:501
+#: ../includes/mabuc-panel/options.php:570
+#: ../includes/mabuc-panel/options.php:606
+#: ../includes/mabuc-panel/options.php:620
+#: ../includes/mabuc-panel/options.php:648
+#: ../includes/mabuc-panel/options.php:676
+#: ../includes/mabuc-panel/options.php:704
+#: ../includes/mabuc-panel/options.php:724
+#: ../includes/mabuc-panel/options.php:744
+#: ../includes/mabuc-panel/options.php:764
+#: ../includes/mabuc-panel/options.php:797
+#: ../includes/mabuc-panel/options.php:948
+#: ../includes/mabuc-panel/options.php:980
+#: ../includes/mabuc-panel/options.php:1035
+#: ../includes/mabuc-panel/options.php:1061
+#: ../includes/mabuc-panel/options.php:1155
+#: ../includes/mabuc-panel/options.php:1229
+#: ../includes/mabuc-panel/options.php:1811
+#: ../includes/posts/post-properties.php:304
+msgid "Hide"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:502
+msgid "Check the box to hide header images at the top"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:508
+msgid "Upload default header image for entire site"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:514
+msgid "Upload archive header image for archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:520
+msgid "Upload taxonomy header image for taxonomy page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:526
+msgid "Upload header image for agent single page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:532
+msgid "Upload search header image for search page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:538
+msgid "Upload attachment header image for attachment page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:544
+msgid "Upload 404 not found header image for 404 page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:549
+#: ../includes/mabuc-panel/options.php:1053
+#: ../includes/mabuc-panel/options.php:1099
+#: ../includes/mabuc-panel/options.php:1191
+#: ../includes/mabuc-panel/options.php:1253
+msgid "Overlay Color"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:550
+msgid "Select your overlay color for header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:562
+msgid "Advance Search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:571
+msgid "Disable advance search in all pages, except homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:576
+#: ../includes/mabuc-panel/options.php:1322
+#: ../includes/mabuc-panel/options.php:1415
+msgid "Hide Map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:577
+msgid "Check the box to hide google map in advance search page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:582
+#: ../includes/mabuc-panel/options.php:843
+#: ../includes/mabuc-panel/options.php:875
+#: ../includes/mabuc-panel/options.php:1376
+#: ../includes/mabuc-panel/options.php:1546
+#: ../includes/mabuc-panel/options.php:1622
+#: ../includes/mabuc-panel/options.php:1728
+#: ../includes/mabuc-panel/options.php:1737
+msgid "Layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:583
+msgid "Select advance search layout for advance search page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:598
+#: ../includes/mabuc-panel/options.php:1147
+#: ../includes/mabuc-panel/options.php:1173
+#: ../includes/mabuc-panel/options.php:1354
+#: ../includes/mabuc-panel/options.php:1514
+#: ../includes/mabuc-panel/options.php:1713
+#: ../includes/mabuc-panel/options.php:1882
+msgid "Button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:599
+msgid "Add search button label in advance search form"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:604
+#: ../includes/widgets/widget-flickr.php:89
+#: ../includes/widgets/widget-twitter.php:94
+msgid "ID"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:607
+msgid "Hide property id textfield in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:612
+#: ../includes/mabuc-panel/options.php:626
+#: ../includes/mabuc-panel/options.php:654
+#: ../includes/mabuc-panel/options.php:682
+#: ../includes/mabuc-panel/options.php:710
+#: ../includes/mabuc-panel/options.php:730
+#: ../includes/mabuc-panel/options.php:750
+#: ../includes/mabuc-panel/options.php:770
+msgid "Label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:613
+msgid "Add your property id label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:621
+msgid "Hide location selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:627
+msgid "Add your location label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:633
+msgid "Select your property location order"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:640
+msgid "Select your sort by parameter for property location"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:649
+msgid "Hide status selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:655
+msgid "Add your status label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:661
+msgid "Select your property status order"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:668
+msgid "Select your sort by parameter for property status"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:677
+msgid "Hide property type selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:683
+msgid "Add your property type label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:689
+msgid "Select your property type order"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:696
+msgid "Select your sort by parameter for property type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:705
+msgid "Hide bedrooms selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:711
+msgid "Add your bedrooms label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:716
+#: ../includes/mabuc-panel/options.php:736
+msgid "Selections"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:717
+msgid "Add your bedrooms selections"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:725
+msgid "Hide bathrooms selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:731
+msgid "Add your bathrooms label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:737
+msgid "Add your bathrooms selections"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:745
+msgid "Hide minimum price selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:751
+msgid "Add your minimum price label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:756
+#: ../includes/mabuc-panel/options.php:776
+msgid "Price Range"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:757
+msgid "Add your minimum price values selection"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:765
+msgid "Hide maximum price selectbox in advance search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:771
+msgid "Add your maximum price label"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:777
+msgid "Add your maximum price values selection"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:798
+msgid "Check the box to hide agents or agency all over the theme"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:803
+#: ../includes/mabuc-panel/options.php:954
+#: ../includes/mabuc-panel/options.php:992
+#: ../includes/mabuc-panel/options.php:1014
+#: ../includes/mabuc-panel/options.php:1041
+#: ../includes/mabuc-panel/options.php:1073
+#: ../includes/mabuc-panel/options.php:1127
+#: ../includes/mabuc-panel/options.php:1199
+#: ../includes/mabuc-panel/options.php:1235
+#: ../includes/mabuc-panel/options.php:1328
+#: ../includes/mabuc-panel/options.php:1600
+#: ../includes/mabuc-panel/options.php:1693
+#: ../includes/widgets/widget-agent.php:103
+#: ../includes/widgets/widget-dribbble.php:102
+#: ../includes/widgets/widget-popular.php:92
+#: ../includes/widgets/widget-portfolio.php:91
+#: ../includes/widgets/widget-twitter.php:97
+msgid "Limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:804
+#: ../includes/mabuc-panel/options.php:1200
+msgid "Enter your agents number of posts limit"
+msgstr "Введите число агентов сообщений предела"
+
+#: ../includes/mabuc-panel/options.php:810
+#: ../includes/mabuc-panel/options.php:1212
+msgid "Select your agent order type"
+msgstr "Выбрать агента типа заказа"
+
+#: ../includes/mabuc-panel/options.php:817
+#: ../includes/mabuc-panel/options.php:1219
+msgid "Select your sort by parameter for agents"
+msgstr "Выбрать Сортировать по параметру для агентов"
+
+#: ../includes/mabuc-panel/options.php:823
+msgid "Agent Button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:824
+msgid "Add label of your agent button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:831
+#: ../includes/mabuc-panel/options.php:960
+#: ../includes/mabuc-panel/options.php:986
+#: ../includes/mabuc-panel/options.php:1020
+#: ../includes/mabuc-panel/options.php:1067
+#: ../includes/mabuc-panel/options.php:1161
+#: ../includes/mabuc-panel/options.php:1205
+#: ../includes/mabuc-panel/options.php:1241
+#: ../includes/mabuc-panel/options.php:1487
+#: ../includes/mabuc-panel/options.php:1666
+#: ../includes/mabuc-panel/options.php:1744
+#: ../includes/mabuc-panel/options.php:1850
+#: ../includes/mabuc-panel/options.php:1858
+#: ../includes/mabuc-panel/options.php:1890
+#: ../includes/mabuc-panel/options.php:1915
+msgid "Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:832
+msgid "Enter your agents header in profile page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:838
+msgid "Enter your agents subtitle in profile page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:844
+msgid "Select your agent profile layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:850
+msgid "List Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:851
+msgid "Add list header label in your agent profile page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:863
+msgid "Footer"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:869
+msgid "Hide Widgets"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:870
+msgid "Check the box to hide footer widgets"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:876
+msgid "Select your footer layout style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:889
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:890
+msgid "Enter your copyright text here"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:893
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:895
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:896
+msgid "You can paste your Google Analytics or other tracking code in this box"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:908
+msgid "Theme Pages"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:916
+msgid "Homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:922
+msgid "Hide Advance Search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:923
+msgid "Hide Advance Search in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:928
+msgid "Hide Bottom 2 Columns"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:929
+msgid "Hide the two columns at the bottom"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:934
+msgid "Hide Bottom 3 Columns"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:935
+msgid "Hide the three columns at the bottom"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:940
+msgid "Video Url"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:941
+msgid ""
+"Add your video embedded code here (ex. http://player.vimeo.com/"
+"video/21942776 and http://youtube.com/embed/68AqHwgk2s8)"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:949
+msgid "Hide Properties box in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:955
+msgid "Enter your properties number of posts limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:961
+msgid "Add header label of your properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:966
+msgid "Limit Featured"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:967
+msgid "Enter your properties number of posts limit for featured properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:972
+msgid "Header Featured"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:973
+msgid "Add header label of your featured properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:978
+#: ../includes/mabuc-panel/options.php:1592
+#: ../includes/posts/post-portfolio.php:11
+#: ../includes/posts/post-portfolio.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:981
+msgid "Hide Portfolio in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:987
+msgid "Add header label of your portfolio list"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:993
+msgid "Enter your portfolio number of posts limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:999
+msgid "Select your portfolio order type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1006
+msgid "Select your sort by parameter for portfolio"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1012
+#: ../includes/mabuc-panel/options.php:1506
+msgid "Blog"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1015
+msgid "Enter your blog number of posts limit"
+msgstr "Введите свой блог ряд должностей предела"
+
+#: ../includes/mabuc-panel/options.php:1021
+msgid "Add header label of your blog list"
+msgstr "Добавить метку заголовка вашего списка блоге"
+
+#: ../includes/mabuc-panel/options.php:1026
+msgid "Category"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1027
+msgid "Select the category you want to display for blog"
+msgstr "Выберите категорию хотите отобразить для блога"
+
+#: ../includes/mabuc-panel/options.php:1033
+#: ../includes/mabuc-panel/options.php:1685
+#: ../includes/posts/post-services.php:11
+#: ../includes/posts/post-services.php:12 ../template-sitemap.php:249
+msgid "Services"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1036
+msgid "Hide Services box in Homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1042
+msgid "Enter your services number of posts limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1048
+msgid "Upload your services background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1054
+msgid "Select your overlay color for services element"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1059
+#: ../includes/posts/post-partners.php:11
+#: ../includes/posts/post-partners.php:12
+msgid "Partners"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1062
+msgid "Hide Partners in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1068
+msgid "Add header label of your partners list"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1074
+msgid "Enter your partner number of posts limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1080
+msgid "Select your partner order type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1087
+msgid "Select your sort by parameter for partner"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1094
+msgid "Upload your partners background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1100
+msgid "Select your overlay color for partners element"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1107
+msgid "Hide Slider Details"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1108
+msgid "Hide slider details box"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1113
+msgid "Description Style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1114
+msgid "Select your post slider description type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1120
+msgid "Display List"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1121
+msgid "Select your post slider display list, default is featured properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1128
+msgid "Enter your slider number of posts limit"
+msgstr "Введите ползунок количество сообщений предела"
+
+#: ../includes/mabuc-panel/options.php:1134
+msgid "Select your slider order type"
+msgstr "Выбрать тип заказа слайдер"
+
+#: ../includes/mabuc-panel/options.php:1141
+msgid "Select your sort by parameter for slider"
+msgstr "Выбрать Сортировать по параметру для слайдера"
+
+#: ../includes/mabuc-panel/options.php:1148
+msgid "Add label of your slider button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1153
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1156
+msgid "Hide Welcome box in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1162
+msgid "Enter your welcome header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1165
+msgid "Start a good life"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1167
+msgid "Welcome Text"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1168
+msgid "Enter your welcome text or paragraph here"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1171
+msgid ""
+"Our Services go beyond just providing safe, serene and beautiful exclusive "
+"house. As an extended service, we also provide house packages that give you "
+"access to an array of house designs, suited to a variety of lot sizes and "
+"unique family needs"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1174
+msgid "Add label of your welcome button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1179
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1180
+msgid "Add link of your welcome button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1186
+msgid "Upload your welcome background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1192
+msgid "Select your overlay color for welcome element"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1206
+msgid "Add header label of your agents list"
+msgstr "Добавить метку заголовка вашего списка агентов"
+
+#: ../includes/mabuc-panel/options.php:1227
+#: ../includes/posts/post-testimonials.php:11
+#: ../includes/posts/post-testimonials.php:12
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1230
+msgid "Hide Testimonials box in homepage"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1236
+msgid "Enter your testimonials number of posts limit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1242
+msgid "Add header label of your testimonials list"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1248
+msgid "Upload your testimonials background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1254
+msgid "Select your overlay color for testimonials element"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1259
+#: ../includes/mabuc-panel/options.php:1807
+#: ../includes/posts/post-properties.php:123
+msgid "Google Map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1260
+#: ../includes/mabuc-panel/options.php:1808
+msgid ""
+"Get google map latitude and longitude value <a href=\"http://latlong.net\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1263
+#: ../includes/mabuc-panel/options.php:1817
+#: ../includes/posts/post-properties.php:311
+#: ../includes/widgets/widget-gmap.php:108
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1264
+#: ../includes/mabuc-panel/options.php:1818
+msgid "Enter your google map latitude"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1269
+#: ../includes/mabuc-panel/options.php:1823
+#: ../includes/posts/post-properties.php:318
+#: ../includes/widgets/widget-gmap.php:111
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1270
+#: ../includes/mabuc-panel/options.php:1824
+msgid "Enter your google map longitude"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1275
+#: ../includes/mabuc-panel/options.php:1829
+#: ../includes/posts/post-properties.php:325
+msgid "Map Zoom"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1276
+#: ../includes/mabuc-panel/options.php:1830
+msgid "Select your value for map zoom from 1-20"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1292
+msgid "Currency"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1294
+msgid "Currency Sign"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1295
+msgid "Global - Currency for properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1300
+msgid "Price Format"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1301
+msgid "Global - Price Format for property"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1307
+msgid "Position of Currency Sign"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1308
+msgid "Select your currency position sign in property price"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1314
+msgid "Decimal"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1315
+msgid "Global - Decimal number to be display for property price"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1323
+msgid "Check the box to hide list property map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1329
+msgid "Global - Posts per page for properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1335
+msgid "Select your ordering parameter in properties album"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1342
+msgid "Select your sort by parameter in properties album"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1348
+msgid "Hide Excerpt"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1349
+msgid ""
+"Check the box to hide property excerpt, this will hide all property excerpt "
+"including in homepage and other pages"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1355
+msgid "Add label of your property list read more"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1360
+msgid "Filter Sort By"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1361
+msgid "Select your filter default"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1367
+msgid "Preferred Size"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1368
+msgid "Select your preferred size to be display as default"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1374
+#: ../includes/mabuc-panel/options.php:1544
+#: ../includes/mabuc-panel/options.php:1620
+#: ../includes/mabuc-panel/options.php:1726
+msgid "Single Post"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1377
+msgid "Select your property single page layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1383
+msgid "Featured Image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1384
+msgid "Check the box to exclude featured image in properties slider"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1389
+#: ../includes/mabuc-panel/options.php:1559
+#: ../includes/mabuc-panel/options.php:1639
+msgid "Attachment Order"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1390
+msgid ""
+"Select your ordering parameter in properties page for slider attachment "
+"images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1396
+#: ../includes/mabuc-panel/options.php:1566
+#: ../includes/mabuc-panel/options.php:1646
+msgid "Attachment Sort By"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1397
+msgid ""
+"Select your sort by parameter in properties page for slider attachment images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1403
+msgid "Amenities Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1404
+msgid "Add header label of your property amenities"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1409
+msgid "Clickable Amenities List"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1410
+msgid "Check the box for clickable amenities list"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1416
+msgid "Check the box to hide property map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1421
+msgid "Show Street View"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1422
+msgid "Check the box to show map street view"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1427
+msgid "Map Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1428
+msgid "Add header label of your property map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1433
+msgid "Hide Agent Details"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1434
+msgid "Check the box to hide agent details information"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1439
+msgid "Agent Form"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1440
+msgid "Add header label of your agent contact form"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1445
+msgid "Hide Other Properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1446
+msgid "Check the box to hide other properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1451
+msgid "Limit Other Properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1452
+msgid "Enter your other properties number of posts"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1457
+#: ../single-homeland_properties.php:31
+msgid "Other Properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1458
+msgid "Add header label of your other properties"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1463
+#: ../includes/mabuc-panel/options.php:1579
+msgid "Hide Comments"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1464
+msgid "Check the box to hide property comments"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1471
+#: ../includes/mabuc-panel/options.php:1655
+msgid "Taxonomy and Archive Layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1472
+#: ../includes/mabuc-panel/options.php:1656
+msgid "Select your taxonomy and archive layout style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1488
+msgid "Add header label of your property archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1494
+msgid "Add subtitle label of your property archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1515
+msgid "Add label of your blog learn more button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1520
+msgid "Excerpt"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1521
+msgid "Check the box to enable the_excerpt of blog post"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1526
+msgid "Archive Layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1527
+msgid "Select your archive layout style"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1547
+msgid "Select your blog single page layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1553
+msgid "Thumbnail Slider"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1554
+msgid "Check the box to exclude post thumbnail in blog slider"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1560
+msgid ""
+"Select your order parameter in blog single page for slider attachment images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1567
+msgid ""
+"Select your sort by parameter in blog single page for slider attachment "
+"images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1573
+msgid "Hide Author"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1574
+msgid "Check the box to hide blog author details"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1580
+msgid "Check the box to hide blog comments"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1601
+msgid "Global - Posts per page for portfolio"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1607
+msgid "Select your ordering parameter in portfolio album"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1614
+msgid "Select your sort by parameter in portfolio album"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1623
+msgid "Select your portfolio single page layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1633
+msgid "Static Images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1634
+msgid "Check the box to enable static images without a slider"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1640
+msgid ""
+"Select your order parameter in portfolio single page for slider attachment "
+"images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1647
+msgid ""
+"Select your sort by parameter in portfolio single page for slider attachment "
+"images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1667
+msgid "Add header label of your portfolio archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1673
+msgid "Add subtitle label of your portfolio archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1694
+msgid "Global - Posts per page for services"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1700
+msgid "Select your services order type"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1707
+msgid "Select your sort by parameter for services"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1714
+msgid "Add label of your services read more button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1719
+msgid "Link Target"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1720
+msgid "Add your services link target for custom link"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1729
+msgid "Select your single services layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1738
+msgid "Select your services archive layout"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1745
+msgid "Add header label of your services archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1751
+msgid "Add subtitle label of your services archive page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1763
+msgid "Contact"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1772
+msgid "Enter your email address here"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1778
+msgid "Enter your fax number here"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1783
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1784
+msgid "Enter your company phone number"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1789
+#: ../includes/posts/post-properties.php:219
+#: ../includes/posts/post-properties.php:455
+#: ../includes/widgets/widget-contact.php:90
+#: ../template-contact-alternate.php:30 ../template-contact-alternate2.php:40
+#: ../template-contact.php:36
+msgid "Address"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1790
+msgid "Enter your company complete address"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1795
+#: ../template-contact-alternate.php:33 ../template-contact-alternate2.php:43
+#: ../template-contact.php:39
+msgid "Working Hours"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1796
+msgid "Enter your company working hours"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1801
+msgid "Alternate Background"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1802
+msgid "Upload your contact us alternate background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1812
+msgid "Check the box to hide google map"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1842
+msgid "Other Pages"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1848
+msgid "About"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1851
+msgid "Add header label of our team"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1859
+msgid "Add header label of your 404 page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1865
+msgid "Add subtitle label of your 404 page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1870
+msgid "Content Header"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1874
+msgid "Error <span>404</span>"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1876
+msgid "Content Subtitle"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1877
+msgid "Add your 404 small text"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1883
+msgid "Add your 404 button"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1891
+msgid "Add header label of your search results page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1897
+msgid "Add subtitle label of your search results page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1916
+msgid "Add header label of your forum page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1922
+msgid "Add subtitle label of your forum page"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1927
+msgid "Header Images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1930
+msgid "Upload your forum header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1935
+#: ../includes/mabuc-panel/options.php:1973
+msgid "Single Forum"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1936
+msgid "Upload your single forum header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1941
+#: ../includes/mabuc-panel/options.php:1979
+msgid "Single Topic"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1942
+msgid "Upload your forum single topic header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1947
+#: ../includes/mabuc-panel/options.php:1985
+msgid "Topic Edit"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1948
+msgid "Upload your forum topic edit header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1953
+#: ../includes/mabuc-panel/options.php:1991
+msgid "Forum Search"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1954
+msgid "Upload your forum search header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1959
+#: ../includes/mabuc-panel/options.php:1997
+msgid "User Profile"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1960
+msgid "Upload your user profile header image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1965
+msgid "Background Images"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1968
+msgid "Upload your forum background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1974
+msgid "Upload your single forum background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1980
+msgid "Upload your forum single topic background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1986
+msgid "Upload your forum topic edit background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1992
+msgid "Upload your forum search background image"
+msgstr ""
+
+#: ../includes/mabuc-panel/options.php:1998
+msgid "Upload your user profile background image"
+msgstr ""
+
+#: ../includes/post-format/format-image.php:5 ../loop-entry-timeline.php:47
+msgid "Learn More"
+msgstr "Узнать Больше"
+
+#: ../includes/posts/post-partners.php:13
+#: ../includes/posts/post-portfolio.php:13
+#: ../includes/posts/post-properties.php:13
+#: ../includes/posts/post-services.php:13
+#: ../includes/posts/post-testimonials.php:13
+msgid "Add New"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:14
+msgid "Add New Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:15
+msgid "Edit Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:16
+msgid "Search Partners"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:17
+msgid "No partners found."
+msgstr ""
+
+#: ../includes/posts/post-partners.php:18
+msgid "No partners found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-partners.php:25
+msgid "partner-item"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:49
+msgid "Website Link"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:51
+msgid "Provide your partner website link here"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:71
+#: ../includes/posts/post-portfolio.php:216
+#: ../includes/posts/post-properties.php:459
+#: ../includes/posts/post-testimonials.php:70
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:88
+msgid "No URL"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:91
+#: ../includes/posts/post-partners.php:92
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:117
+msgid "Partner Options"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:14
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:15
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:16
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:17
+msgid "No portfolio found."
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:18
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:26
+msgid "portfolio-item"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:78
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:81
+msgid "Provide your portfolio website url"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:130
+msgid ""
+"Select your slider if you want to use revolution slider in portfolio single "
+"page"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:151
+#: ../includes/posts/post-portfolio.php:152
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:153
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:154
+msgid "All Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:155
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:156
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:157
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:158
+msgid "New Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:159
+#: ../includes/posts/post-portfolio.php:214
+msgid "Categories"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:160
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:175
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:176
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:177
+msgid "Portfolio Search Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:178
+msgid "Portfolio Popular Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:179
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:180
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:181
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:182
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:183
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:184
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:185
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:186
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:187
+#: ../single-homeland_portfolio.php:110
+msgid "Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:241
+msgid "No Categories"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:270
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:14
+msgid "Add New Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:15
+msgid "Edit Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:16
+msgid "Search Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:17
+msgid "No property found."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:18
+msgid "No property found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:27
+msgid "property-item"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:114
+#: ../includes/posts/post-services.php:55
+msgid "Main Information"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:138 ../loop-properties.php:25
+#: ../loop-property-1col.php:19 ../loop-property-2cols.php:22
+#: ../loop-property-3cols.php:23 ../loop-property-4cols.php:22
+#: ../loop-property-home.php:21 ../single-homeland_properties.php:166
+msgid "Featured"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:140
+msgid ""
+"Checking this box will display it in featured properties sections across the "
+"theme and also it will be included in your homepage slider."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:147
+msgid "Tick the box if this property is already sold"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:153
+msgid "Provide your property id here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:159
+msgid "Per"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:160
+msgid ""
+"Provide your property price here. Please add number digits only (Example: "
+"100000)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:165
+#: ../includes/posts/post-properties.php:172
+msgid "Unit"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:165
+msgid "Provide property lot area and unit here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:172
+msgid "Provide property floor area and unit here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:176
+#: ../single-homeland_properties.php:252 ../template-print.php:182
+msgid "Year Built"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:178
+msgid ""
+"Provide property year built. Please add number digits only (Example: 2015)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:182
+msgid "Provide property garage. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:185
+#: ../single-homeland_properties.php:236 ../template-print.php:154
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:186
+msgid "Provide property room number. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:189
+msgid "Bedroom"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:190
+msgid "Provide property bedroom. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:193
+msgid "Bathroom"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:194
+msgid "Provide property bathroom. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:197
+#: ../single-homeland_properties.php:256 ../template-print.php:192
+msgid "Stories"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:198
+msgid "Provide property number of stories. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:201
+#: ../single-homeland_properties.php:260 ../template-print.php:199
+msgid "Basement"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:202
+msgid "Provide property basement. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:205
+#: ../single-homeland_properties.php:272
+msgid "Zip Code"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:206
+msgid "Provide property zip code"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:210
+#: ../single-homeland_properties.php:264 ../template-print.php:206
+msgid "Structure Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:212
+msgid "Provide property structure type."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:215
+#: ../single-homeland_properties.php:268 ../template-print.php:213
+msgid "Roofing"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:216
+msgid "Provide property roofing."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:221
+msgid "Provide property address here (city/state/province/country)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:259
+msgid "Slider Thumbnails"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:262
+msgid "Checking this box will hide all thumbnails in property slider"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:285
+msgid ""
+"Select your slider if you want to use revolution slider in property single "
+"page"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:298
+#, php-format
+msgid ""
+"Get google map latitude and longitude value <a href=\"%s\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:307
+msgid "Check the box to hide map on properties"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:314
+msgid "Add your property latitude for google map"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:321
+msgid "Add your property longitude for google map"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:329
+msgid "Add your map zoom value (1-20) only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:349
+#: ../includes/posts/post-properties.php:350 ../template-sitemap.php:115
+msgid "Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:351
+msgid "Search Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:352
+msgid "All Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:353
+msgid "Edit Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:354
+msgid "Update Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:355
+msgid "Add New Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:356
+msgid "New Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:358
+msgid "Parent Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:373
+#: ../includes/posts/post-properties.php:374 ../template-sitemap.php:146
+msgid "Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:375
+msgid "Search Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:376
+msgid "All Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:377
+msgid "Edit Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:378
+msgid "Update Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:379
+msgid "Add New Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:380
+msgid "New Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:382
+msgid "Parent Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:397
+#: ../includes/posts/post-properties.php:398 ../template-sitemap.php:177
+msgid "Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:399
+msgid "Search Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:400
+msgid "All Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:401
+msgid "Edit Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:402
+msgid "Update Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:403
+msgid "Add New Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:404
+msgid "New Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:406
+msgid "Parent Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:421
+#: ../includes/posts/post-properties.php:422
+msgid "Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:423
+msgid "Search Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:424
+msgid "All Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:425
+msgid "Edit Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:426
+msgid "Update Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:427
+msgid "Add New Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:428
+msgid "New Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:429
+#: ../single-homeland_properties.php:28
+msgid "Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:430
+msgid "Parent Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:548
+msgid "No Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:578
+msgid "SOLD"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:590
+msgid "No Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:611
+msgid "Property Options"
+msgstr ""
+
+#: ../includes/posts/post-services.php:14
+msgid "Add New Services"
+msgstr ""
+
+#: ../includes/posts/post-services.php:15
+msgid "Edit Services"
+msgstr ""
+
+#: ../includes/posts/post-services.php:16
+msgid "Search Services"
+msgstr ""
+
+#: ../includes/posts/post-services.php:17
+msgid "No services found."
+msgstr ""
+
+#: ../includes/posts/post-services.php:18
+msgid "No services found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-services.php:23
+msgid "services-item"
+msgstr ""
+
+#: ../includes/posts/post-services.php:58
+#: ../includes/posts/post-services.php:162
+msgid "Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:75
+msgid "Custom Link"
+msgstr ""
+
+#: ../includes/posts/post-services.php:78
+msgid "Provide your custom services link here"
+msgstr ""
+
+#: ../includes/posts/post-services.php:87
+msgid "Retina Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:89
+msgid "Select your services icon below, just click on the icons"
+msgstr ""
+
+#: ../includes/posts/post-services.php:105
+msgid "Custom Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:108
+msgid "Please upload custom icon by clicking upload button"
+msgstr ""
+
+#: ../includes/posts/post-services.php:160
+#: ../includes/widgets/widget-advance-search.php:49
+#: ../includes/widgets/widget-agent.php:99
+#: ../includes/widgets/widget-contact.php:86
+#: ../includes/widgets/widget-dribbble.php:89
+#: ../includes/widgets/widget-featured-properties.php:110
+#: ../includes/widgets/widget-flickr.php:85
+#: ../includes/widgets/widget-follow-us.php:88
+#: ../includes/widgets/widget-gmap.php:104
+#: ../includes/widgets/widget-popular.php:88
+#: ../includes/widgets/widget-portfolio.php:87
+#: ../includes/widgets/widget-search-amenities.php:65
+#: ../includes/widgets/widget-search-location.php:65
+#: ../includes/widgets/widget-search-status.php:65
+#: ../includes/widgets/widget-search-type.php:65
+#: ../includes/widgets/widget-testimonials.php:83
+#: ../includes/widgets/widget-twitter.php:90
+#: ../includes/widgets/widget-video.php:56
+#: ../includes/widgets/widget-working-hours.php:126
+msgid "Title"
+msgstr ""
+
+#: ../includes/posts/post-services.php:161
+msgid "Link"
+msgstr ""
+
+#: ../includes/posts/post-services.php:213
+msgid "Services Options"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:14
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:15
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:16
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:17
+msgid "No testimonials found."
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:18
+msgid "No testimonials found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:26
+msgid "testimonial-item"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:49
+#: ../includes/posts/post-testimonials.php:69
+msgid "Position"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:51
+msgid "Provide a user position"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:109
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:11
+msgid "Custom widget for property advance search"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:13
+msgid "Homeland: Advance Search Property"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:52
+msgid "Property Advance Search will automatically display"
+msgstr "Недвижимость Предварительная Поиск будет автоматически отображать"
+
+#: ../includes/widgets/widget-agent.php:9
+msgid "Custom widget for agents"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:10
+msgid "Homeland: Agents"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:107
+msgid ""
+"Top Agents List will display automatically base on the number of properties "
+"they listed..."
+msgstr ""
+"Топ Список агентов будет отображаться автоматически строить от количества "
+"свойств, которые они перечисленных ..."
+
+#: ../includes/widgets/widget-contact.php:9
+msgid "Custom widget for contact information"
+msgstr "Пользовательские виджет для получения контактной информации"
+
+#: ../includes/widgets/widget-contact.php:10
+msgid "Homeland: Contact Information"
+msgstr ""
+
+#: ../includes/widgets/widget-contact.php:93
+#: ../template-contact-alternate.php:36 ../template-contact-alternate2.php:46
+#: ../template-contact.php:42
+msgid "Phone"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:9
+msgid "Custom widget for dribbble feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:10
+msgid "Homeland: Dribbble Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:93
+msgid "Client Access Token"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:98
+#, php-format
+msgid ""
+"Get your client access token here <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:9
+msgid "Custom widget for facebook like box"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:10
+msgid "Homeland: Facebook Like Box"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:55
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:9
+msgid "Custom widget for featured properties"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:10
+msgid "Homeland: Featured Properties"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:114
+msgid "Number of Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:9
+msgid "Custom widget for flickr feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:10
+msgid "Homeland: Flickr Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:92
+msgid "Number of Images"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:9
+msgid "Custom widget for connect with us"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:10
+msgid "Homeland: Connect with us"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:91
+msgid ""
+"Social links will automatically display, set id and name in Theme Options"
+msgstr ""
+"Социальные ссылки будут автоматически дисплей, набор ID и имя в тематических "
+"Options"
+
+#: ../includes/widgets/widget-gmap.php:9
+msgid "Custom widget for google map"
+msgstr ""
+
+#: ../includes/widgets/widget-gmap.php:10
+msgid "Homeland: Google Map"
+msgstr ""
+
+#: ../includes/widgets/widget-gmap.php:114
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:9
+msgid "Custom widget for popular posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:10
+msgid "Homeland: Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:96
+msgid "Popular Posts are automatically displayed from blog posts"
+msgstr "Популярные сообщения автоматически отображаются с постов в блоге"
+
+#: ../includes/widgets/widget-portfolio.php:11
+msgid "Custom widget for portfolio"
+msgstr ""
+
+#: ../includes/widgets/widget-portfolio.php:13
+msgid "Homeland: Portfolio"
+msgstr ""
+
+#: ../includes/widgets/widget-portfolio.php:95
+msgid "Portfolio are automatically displayed"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:9
+msgid "Custom widget for property amenities"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:10
+msgid "Homeland: Search By Amenities"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:46
+#: ../includes/widgets/widget-search-location.php:46
+#: ../includes/widgets/widget-search-status.php:46
+#: ../includes/widgets/widget-search-type.php:46
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:68
+msgid "Property Amenities will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-search-location.php:9
+msgid "Custom widget for property location"
+msgstr ""
+
+#: ../includes/widgets/widget-search-location.php:10
+msgid "Homeland: Search By Location"
+msgstr "Родина: Поиск по местоположению"
+
+#: ../includes/widgets/widget-search-location.php:68
+msgid "Property Location will automatically display"
+msgstr "Местонахождение будет автоматически отображать"
+
+#: ../includes/widgets/widget-search-status.php:9
+msgid "Custom widget for property status"
+msgstr "Пользовательские виджет для имущественного положения"
+
+#: ../includes/widgets/widget-search-status.php:10
+msgid "Homeland: Search By Status"
+msgstr "Родина: Поиск по статусу"
+
+#: ../includes/widgets/widget-search-status.php:68
+msgid "Property Status will automatically display"
+msgstr "Статус недвижимости будет автоматически отображать"
+
+#: ../includes/widgets/widget-search-type.php:9
+msgid "Custom widget for property type"
+msgstr ""
+
+#: ../includes/widgets/widget-search-type.php:10
+msgid "Homeland: Search By Type"
+msgstr ""
+
+#: ../includes/widgets/widget-search-type.php:68
+msgid "Property Type will automatically display"
+msgstr "Тип недвижимости будет автоматически отображать"
+
+#: ../includes/widgets/widget-testimonials.php:11
+msgid "Custom widget for testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-testimonials.php:13
+msgid "Homeland: Testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-testimonials.php:92
+msgid "Number of Testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:9
+msgid "Custom widget for twitter feed"
+msgstr "Пользовательские виджет для Твиттера"
+
+#: ../includes/widgets/widget-twitter.php:10
+msgid "Homeland: Twitter Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:100
+msgid "Loading Text"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:9
+msgid "Custom widget for video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:10
+msgid "Homeland: Video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:60
+msgid "Video iFrame"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:63
+msgid "Please enter the entire embedd codes from vimeo, youtube or dailymotion"
+msgstr ""
+"Пожалуйста, введите целые коды возможность размещения от Vimeo, YouTube или "
+"Dailymotion"
+
+#: ../includes/widgets/widget-working-hours.php:9
+msgid "Custom widget for working hours"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:10
+msgid "Homeland: Working Hours"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:53
+#: ../includes/widgets/widget-working-hours.php:130
+msgid "Monday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:57
+#: ../includes/widgets/widget-working-hours.php:137
+msgid "Tuesday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:61
+#: ../includes/widgets/widget-working-hours.php:144
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:65
+#: ../includes/widgets/widget-working-hours.php:151
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:69
+#: ../includes/widgets/widget-working-hours.php:158
+msgid "Friday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:73
+#: ../includes/widgets/widget-working-hours.php:165
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:77
+#: ../includes/widgets/widget-working-hours.php:172
+msgid "Sunday"
+msgstr ""
+
+#: ../loop-properties.php:19 ../loop-property-4cols.php:16
+msgid "View More Details"
+msgstr ""
+
+#: ../loop-properties.php:119
+msgid "Agent:"
+msgstr ""
+
+#: ../search.php:21
+msgid "The Keyword you search cannot be found!"
+msgstr "Ключевое слово вы ищете не может быть найден!"
+
+#: ../searchform.php:2
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:104
+msgid "Live Demo"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:126 ../single.php:101
+msgid "Previous Post"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:129 ../single.php:104
+msgid "Next Post"
+msgstr ""
+
+#: ../single-homeland_properties.php:29
+msgid "Property Map"
+msgstr ""
+
+#: ../single-homeland_properties.php:30
+msgid "Contact Agent"
+msgstr ""
+
+#: ../single-homeland_properties.php:134
+msgid "Property ID : "
+msgstr ""
+
+#: ../single-homeland_properties.php:155
+msgid "Print"
+msgstr ""
+
+#: ../single-homeland_properties.php:392 ../template-agents-fullwidth.php:16
+#: ../template-agents-left-sidebar.php:17
+#: ../template-agents-list-fullwidth.php:17 ../template-agents.php:17
+#: ../template-login.php:88
+msgid "View Profile"
+msgstr ""
+
+#: ../single-homeland_properties.php:433
+msgid "You have successfully send your message to this agent!"
+msgstr "Вы успешно отправить сообщение брокеру!"
+
+#: ../single-homeland_properties.php:442
+msgid "Send"
+msgstr ""
+
+#: ../single-homeland_properties.php:498
+msgid "Previous Property"
+msgstr ""
+
+#: ../single-homeland_properties.php:502
+msgid "Next Property"
+msgstr ""
+
+#: ../taxonomy-homeland_property_amenities.php:111
+#: ../taxonomy-homeland_property_location.php:112
+#: ../taxonomy-homeland_property_status.php:112
+#: ../taxonomy-homeland_property_type.php:112
+#: ../template-properties-grid-left-sidebar.php:81
+#: ../template-property-search.php:110
+msgid "Properties found..."
+msgstr "Объектов найдено ..."
+
+#: ../template-about.php:15
+msgid "Our Team"
+msgstr ""
+
+#: ../template-agents-left-sidebar.php:150
+#: ../template-agents-list-fullwidth.php:148 ../template-agents.php:152
+msgid "Listed"
+msgstr ""
+
+#: ../template-coming-soon.php:39
+msgid "Our Site is Almost Ready"
+msgstr ""
+
+#: ../template-coming-soon.php:42
+msgid ""
+"Hello, It's nice to meet you. We'll be back soon once we're done building "
+"this site."
+msgstr ""
+"Привет, это приятно встретиться с вами. Мы скоро вернусь, как только мы "
+"закончили строительство этого сайта."
+
+#: ../template-coming-soon.php:45
+msgid "Time left until launching"
+msgstr ""
+
+#: ../template-homepage-revslider.php:20
+msgid "Please add revolution slider widget here..."
+msgstr ""
+
+#: ../template-login.php:49
+msgid "Already a member? Please login here"
+msgstr ""
+
+#: ../template-login.php:82
+msgid "Howdy"
+msgstr ""
+
+#: ../template-print.php:220
+msgid "Zip"
+msgstr ""
+
+#: ../template-print.php:231
+msgid "Features"
+msgstr ""
+
+#: ../template-print.php:295
+msgid "Copyright"
+msgstr ""
+
+#: ../template-property-search.php:167
+msgid "Your search query returned 0 results!"
+msgstr ""
+
+#: ../template-sitemap.php:30
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:54
+msgid "Blog Post"
+msgstr ""
+
+#: ../template-sitemap.php:67
+msgid "Archives"
+msgstr ""
+
+#: ../template-sitemap.php:82
+msgid "Blog Categories"
+msgstr ""
+
+#: ../template-sitemap.php:101
+msgid "No categories"
+msgstr ""
+
+#: ../template-sitemap.php:134
+msgid "No property types"
+msgstr ""
+
+#: ../template-sitemap.php:165
+msgid "No property status"
+msgstr ""
+
+#: ../template-sitemap.php:196
+msgid "No property location"
+msgstr ""
+
+#~ msgid "Hide Property details box in slider"
+#~ msgstr "Скрыть детали собственности боксировать в слайдер"
+
+#~ msgid "Select your slider display list for properties"
+#~ msgstr "Выбрать ползунок список отображения для свойств"

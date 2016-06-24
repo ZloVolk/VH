@@ -101,3 +101,6 @@
 [20-Jun-2016 01:14:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 84
 [20-Jun-2016 01:15:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 84
 [20-Jun-2016 01:55:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nstudios/public_html/dev_vinehurst/wp-content/themes/RealHomes/header.php on line 70
+[23-Jun-2016 07:40:30 UTC] PHP Warning:  require(/home/nstudios/public_html/dev_vinehurst/wp-includes/load.php): failed to open stream: No such file or directory in /home/nstudios/public_html/dev_vinehurst/wp-settings.php on line 21
+[23-Jun-2016 07:40:30 UTC] PHP Warning:  require(/home/nstudios/public_html/dev_vinehurst/wp-includes/load.php): failed to open stream: No such file or directory in /home/nstudios/public_html/dev_vinehurst/wp-settings.php on line 21
+[23-Jun-2016 07:40:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/nstudios/public_html/dev_vinehurst/wp-includes/load.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nstudios/public_html/dev_vinehurst/wp-settings.php on line 21
