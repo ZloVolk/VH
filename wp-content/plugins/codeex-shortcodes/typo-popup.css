@@ -1,0 +1,21 @@
+.mce-i-typo_shortcodes { 
+	background-image: url('inc/logo.png') !important; 
+	background-repeat: no-repeat; 
+	background-color: transparent; 
+	background-position: center center; 
+}
+.mce-menu-item { padding: 4px 15px 4px 12px !important; }
+
+.popup-div { margin: 40px 0 0; }
+.popup-div li { margin-bottom: 20px; }
+.popup-div li label { 
+	display: inline-block; 
+	width: 100px; 
+	vertical-align: top; 
+	padding-top: 4px; 
+}
+.popup-div li select { width: 200px; }
+.popup-div li textarea { width: 490px; height: 60px; }
+.popup-div li input[type="text"] { width: 490px; }
+#btninsert, .popup-div li .example { margin-left: 103px; }
+.popup-div li .example { display: inline-block; font-size: 11px; }
