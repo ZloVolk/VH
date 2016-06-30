@@ -23,9 +23,7 @@ CREATE TABLE `wpqp_rg_form` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wpqp_rg_form` WRITE;
-/*!40000 ALTER TABLE `wpqp_rg_form` DISABLE KEYS */;
-INSERT INTO `wpqp_rg_form` VALUES (1,'Inquire About This Listing','2016-06-14 23:47:00',1,0);
-/*!40000 ALTER TABLE `wpqp_rg_form` ENABLE KEYS */;
+INSERT INTO `wpqp_rg_form` VALUES ('1','Menu Contact','2016-06-25 08:02:18','1','0');
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
