@@ -9,21 +9,26 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-DROP TABLE IF EXISTS `wpqp_revslider_settings`;
+DROP TABLE IF EXISTS `wpqp_csp3_subscribers`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `wpqp_revslider_settings` (
-  `id` int(9) NOT NULL AUTO_INCREMENT,
-  `general` text COLLATE utf8mb4_unicode_ci NOT NULL,
-  `params` text COLLATE utf8mb4_unicode_ci NOT NULL,
+CREATE TABLE `wpqp_csp3_subscribers` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `email` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `fname` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `lname` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `clicks` int(11) NOT NULL DEFAULT '0',
+  `conversions` int(11) NOT NULL DEFAULT '0',
+  `referrer` int(11) NOT NULL DEFAULT '0',
+  `ip` varchar(40) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
-LOCK TABLES `wpqp_revslider_settings` WRITE;
-/*!40000 ALTER TABLE `wpqp_revslider_settings` DISABLE KEYS */;
-INSERT INTO `wpqp_revslider_settings` VALUES (1,'a:0:{}','');
-/*!40000 ALTER TABLE `wpqp_revslider_settings` ENABLE KEYS */;
+LOCK TABLES `wpqp_csp3_subscribers` WRITE;
+/*!40000 ALTER TABLE `wpqp_csp3_subscribers` DISABLE KEYS */;
+/*!40000 ALTER TABLE `wpqp_csp3_subscribers` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

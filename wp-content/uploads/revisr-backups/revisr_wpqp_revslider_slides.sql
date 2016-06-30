@@ -21,8 +21,12 @@ CREATE TABLE `wpqp_revslider_slides` (
   `settings` text COLLATE utf8mb4_unicode_ci NOT NULL,
   UNIQUE KEY `id` (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
 LOCK TABLES `wpqp_revslider_slides` WRITE;
-INSERT INTO `wpqp_revslider_slides` VALUES ('5','2','2','{\"background_type\":\"image\",\"image\":\"http:\\/\\/dev.vinehurst.com\\/wp-content\\/uploads\\/2016\\/06\\/black-white-photography-4.jpg\",\"image_id\":\"929\"}','','');
+/*!40000 ALTER TABLE `wpqp_revslider_slides` DISABLE KEYS */;
+INSERT INTO `wpqp_revslider_slides` VALUES (5,2,2,'{\"background_type\":\"image\",\"image\":\"http:\\/\\/dev.vinehurst.com\\/wp-content\\/uploads\\/2016\\/06\\/black-white-photography-4.jpg\",\"image_id\":\"929\"}','','');
+/*!40000 ALTER TABLE `wpqp_revslider_slides` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
