@@ -8,5 +8,5 @@ CREATE TABLE `wpqp_rg_form` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 LOCK TABLES `wpqp_rg_form` WRITE;
-INSERT INTO `wpqp_rg_form` VALUES ('1','Inquire About This Listing','2016-06-14 23:47:00','1','0');
+INSERT INTO `wpqp_rg_form` VALUES ('1','Menu Contact','2016-06-25 08:02:18','1','0');
 UNLOCK TABLES;
