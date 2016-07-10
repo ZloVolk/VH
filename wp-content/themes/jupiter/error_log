@@ -1,0 +1,6 @@
+[01-Jul-2016 00:48:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
+[01-Jul-2016 05:32:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
+[01-Jul-2016 11:31:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
+[01-Jul-2016 17:11:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
+[01-Jul-2016 17:27:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
+[01-Jul-2016 23:33:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nstudios/public_html/vinehurst.com/wp-content/themes/jupiter/index.php on line 16
