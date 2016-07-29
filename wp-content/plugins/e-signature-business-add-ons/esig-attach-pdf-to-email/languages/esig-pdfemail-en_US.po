@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Signature Attach PDF to Email\n"
+"POT-Creation-Date: 2015-12-02 17:54+0600\n"
+"PO-Revision-Date: 2015-12-02 17:54+0600\n"
+"Last-Translator: Abu Shoaib <abushoaib73@gmail.com>\n"
+"Language-Team: approveme <team@approveme.me>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: esig-pdf-to-email.php\n"
+
+#: admin/esig-pdf-to-email-admin.php:289
+msgid ""
+"Selecting this option will automatically attach a PDF of this attachment to "
+"the email that gets sent to all parties once the document has been signed by "
+"all parties and is closed."
+msgstr ""
+
+#: admin/esig-pdf-to-email-admin.php:292
+msgid "Send a PDF of this agreement as an email attachment"
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:35
+msgid ""
+" I apologize, but we're having trouble connecting to your <em>Save as PDF "
+"add-on</em> (which is required to use this feature). "
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:35
+msgid " For your site to magically create PDF's,"
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:35
+msgid "you will definitely need our \"Save as PDF\" add-on."
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:44
+msgid ""
+"To complicate the situation, It looks like your license is expired... you "
+"will need to have a valid license in order install this add-on."
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:48
+msgid "Please Renew My License"
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:59
+msgid ""
+"To complicate the situation, only the super admin <?php echo $s_first_name . "
+"\" \" . $s_last_name ;  ?> can install/activate add-ons.  "
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:72
+msgid ""
+"To complicate the situation, it also looks like you do not have a license "
+"key (which means your site cannot communicate with ApproveMe and receive "
+"critical updates, downloads etc)... you will need to have a valid license in "
+"order to install this add-on. "
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:76
+msgid "Get My License Key"
+msgstr ""
+
+#: admin/views/pdf-error-dialog.php:85
+msgid "INSTALL IT & TURN IT ON FOR ME NOW"
+msgstr ""

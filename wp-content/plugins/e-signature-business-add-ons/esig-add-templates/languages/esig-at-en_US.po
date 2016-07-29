@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Signature Document Templates\n"
+"POT-Creation-Date: 2015-12-02 14:59+0600\n"
+"PO-Revision-Date: 2015-12-02 14:59+0600\n"
+"Last-Translator: Abu Shoaib <abushoaib73@gmail.com>\n"
+"Language-Team: approveme <team@approveme.me>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: models\n"
+"X-Poedit-SearchPath-4: esig-at.php\n"
+
+#: admin/esig-at-admin.php:108
+msgid "Document Permission"
+msgstr ""
+
+#: admin/esig-at-admin.php:174
+msgid "Who fills this out?"
+msgstr ""
+
+#: admin/esig-at-admin.php:177
+msgid "Select Signer"
+msgstr ""
+
+#: admin/esig-at-admin.php:180
+#, php-format
+msgid "Signer %s"
+msgstr ""
+
+#: admin/esig-at-admin.php:867
+msgid "Select Template Name"
+msgstr ""
+
+#: admin/esig-at-admin.php:921
+msgid ""
+"Selecting this option allows you to easily save this document as a template "
+"and create future documents from its contents."
+msgstr ""
+
+#: admin/esig-at-admin.php:924
+msgid "Save document as template"
+msgstr ""
+
+#: admin/esig-at-admin.php:953
+msgid "Edit"
+msgstr ""
+
+#: admin/esig-at-admin.php:954
+msgid "Add Document"
+msgstr ""
+
+#: admin/esig-at-admin.php:1016
+msgid "Templates"
+msgstr ""
+
+#: admin/esig-at-admin.php:1213
+msgid "+ Template"
+msgstr ""
+
+#: admin/esig-at-admin.php:1218
+msgid "Template Benefits"
+msgstr ""
+
+#: admin/esig-at-admin.php:1219
+msgid "1 or more signers"
+msgstr ""
+
+#: admin/esig-at-admin.php:1220
+msgid "Store a document as a reusable template"
+msgstr ""
+
+#: admin/esig-at-admin.php:1221
+msgid "Create a document from a template"
+msgstr ""
+
+#: admin/esig-at-admin.php:1222
+msgid "Great for saving time!"
+msgstr ""
+
+#: admin/esig-at-admin.php:1236
+msgid "What Are You Trying To Do?"
+msgstr ""
+
+#: admin/esig-at-admin.php:1242 admin/esig-at-admin.php:1244
+msgid "+ Create template"
+msgstr ""
+
+#: admin/esig-at-admin.php:1251
+msgid "Signer 1"
+msgstr ""
+
+#: admin/esig-at-admin.php:1252
+msgid "Signer 2"
+msgstr ""
+
+#: admin/esig-at-admin.php:1253
+msgid "Signer 3"
+msgstr ""
+
+#: admin/esig-at-admin.php:1254
+msgid "Signer 5"
+msgstr ""
+
+#: admin/esig-at-admin.php:1255
+msgid "Signer 10"
+msgstr ""
+
+#: admin/esig-at-admin.php:1263
+msgid "+ Next Step"
+msgstr ""
+
+#: admin/esig-at-admin.php:1268
+msgid "+ Use existing template"
+msgstr ""
+
+#: admin/esig-at-admin.php:1273
+msgid "Select Document Type"
+msgstr ""
+
+#: admin/esig-at-admin.php:1274
+msgid "Basic Document"
+msgstr ""
+
+#: admin/esig-at-admin.php:1276
+msgid "Stand Alone Document"
+msgstr ""
+
+#: admin/esig-at-admin.php:1312
+msgid "+ Add Signer"
+msgstr ""
